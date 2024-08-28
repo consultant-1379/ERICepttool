@@ -1,0 +1,175 @@
+2017/09/16 14:58:59 Running testspecIMSSBG.properties
+2017/09/16 14:59:08 report name :SBG, CBA (Description)
+2017/09/16 14:59:16 report name :SBG, Overview (Description)
+2017/09/16 14:59:16 Test execution started for "SBG, CBA (Description)" using test spec testspecIMSSBG.properties
+2017/09/16 14:59:16 error :Test execution error for "SBG, CBA (Description)" using test spec testspecIMSSBG.properties
+2017/09/16 14:59:16 error <error>
+    <error_code>WSR 00102</error_code>
+    <message>Illegal argument ("The following database error occurred: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified. For information about this error, please refer to SAP Knowledge Base Article 2054721 on the SAP Support Portal. (IES 10901)")</message>
+</error>
+
+2017/09/16 14:59:16 Test execution completed for "SBG, CBA (Description)" using test spec testspecIMSSBG.properties
+2017/09/16 14:59:22 report name :SBG, Overview (Raw Data)
+2017/09/16 14:59:22 Test execution started for "SBG, Overview (Description)" using test spec testspecIMSSBG.properties
+2017/09/16 14:59:24 testspecIMSSBG.properties,SBG, Overview (Description),0,1034, 0
+2017/09/16 14:59:38 prompt name Select raw data time resolution:
+2017/09/16 14:59:38 prompt value [Raw data]
+2017/09/16 14:59:38 prompt name Enter value(s) for NE Name:
+2017/09/16 14:59:38 prompt value [sbg_01, sbg_01, sbg_04, sbg_01, sbg_03, ISMGW02, ISSBG01, sbg_03, sbg_03, ISSBG01]
+2017/09/16 14:59:38 prompt name First Date:
+2017/09/16 14:59:38 prompt value [2017-08-10]
+2017/09/16 14:59:38 prompt name Last Date:
+2017/09/16 14:59:38 prompt value [2017-09-16]
+2017/09/16 14:59:38 report name :SBG, CBA (Day)
+2017/09/16 14:59:38 Test execution started for "SBG, Overview (Raw Data)" using test spec testspecIMSSBG.properties
+2017/09/16 14:59:45 prompt name First Date:
+2017/09/16 14:59:45 prompt value [2017-08-10]
+2017/09/16 14:59:45 prompt name Last Date:
+2017/09/16 14:59:45 prompt value [2017-09-16]
+2017/09/16 14:59:45 prompt name Enter values for NE Name:
+2017/09/16 14:59:45 prompt value [sbg_03, ISSBG02, ISSBG01, ISSBG02, ISMGW02, ISMGW02, ISSBG01, ISMGW01, sbg_03, sbg_04]
+2017/09/16 14:59:45 report name :SBG, CBA (Raw Data)
+2017/09/16 14:59:45 Test execution started for "SBG, CBA (Day)" using test spec testspecIMSSBG.properties
+2017/09/16 14:59:48 testspecIMSSBG.properties,SBG, CBA (Day),1,0, 0
+2017/09/16 14:59:52 prompt name Select raw data time resolution:
+2017/09/16 14:59:52 prompt value [Raw data]
+2017/09/16 14:59:52 prompt name First Date:
+2017/09/16 14:59:52 prompt value [2017-08-10]
+2017/09/16 14:59:52 prompt name Last Date:
+2017/09/16 14:59:52 prompt value [2017-09-16]
+2017/09/16 14:59:52 prompt name Enter values for NE Name:
+2017/09/16 14:59:52 prompt value [sbg_02, ISSBG01, ISSBG01, ISSBG01, sbg_01, ISMGW02, sbg_03, ISMGW01, ISMGW01, sbg_01]
+2017/09/16 14:59:52 report name :SBG, Overview (Day)
+2017/09/16 14:59:52 Test execution started for "SBG, CBA (Raw Data)" using test spec testspecIMSSBG.properties
+2017/09/16 14:59:59 Running testspecIMSSBG.properties
+2017/09/16 15:00:03 testspecIMSSBG.properties,SBG, CBA (Raw Data),8,0, 0
+2017/09/16 15:00:07 report name :SBG, CBA (Description)
+2017/09/16 15:00:08 prompt name Enter value(s) for NE Name:
+2017/09/16 15:00:08 prompt value [sbg_02, sbg_05, sbg_02, sbg_02, sbg_01, sbg_02, ISMGW02, sbg_01, sbg_03, ISMGW01]
+2017/09/16 15:00:08 prompt name First Date:
+2017/09/16 15:00:08 prompt value [2017-08-10]
+2017/09/16 15:00:08 prompt name Last Date:
+2017/09/16 15:00:08 prompt value [2017-09-16]
+2017/09/16 15:00:08 Test execution started for "SBG, Overview (Day)" using test spec testspecIMSSBG.properties
+2017/09/16 15:00:14 report name :SBG, Overview (Description)
+2017/09/16 15:00:14 Test execution started for "SBG, CBA (Description)" using test spec testspecIMSSBG.properties
+2017/09/16 15:00:14 error :Test execution error for "SBG, CBA (Description)" using test spec testspecIMSSBG.properties
+2017/09/16 15:00:14 error <error>
+    <error_code>WSR 00102</error_code>
+    <message>Illegal argument ("The following database error occurred: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified. For information about this error, please refer to SAP Knowledge Base Article 2054721 on the SAP Support Portal. (IES 10901)")</message>
+</error>
+
+2017/09/16 15:00:14 Test execution completed for "SBG, CBA (Description)" using test spec testspecIMSSBG.properties
+2017/09/16 15:00:20 Test execution started for "SBG, Overview (Description)" using test spec testspecIMSSBG.properties
+2017/09/16 15:00:23 testspecIMSSBG.properties,SBG, Overview (Description),1,1034, 0
+2017/09/16 15:00:38 prompt name Select raw data time resolution:
+2017/09/16 15:00:38 prompt value [Raw data]
+2017/09/16 15:00:38 prompt name Enter value(s) for NE Name:
+2017/09/16 15:00:38 prompt value [sbg_05, sbg_04, ISMGW01, sbg_03, sbg_04, sbg_03, ISSBG02, sbg_04, ISMGW01, sbg_04]
+2017/09/16 15:00:38 prompt name First Date:
+2017/09/16 15:00:38 prompt value [2017-08-10]
+2017/09/16 15:00:38 prompt name Last Date:
+2017/09/16 15:00:38 prompt value [2017-09-16]
+2017/09/16 15:00:38 report name :SBG, CBA (Day)
+2017/09/16 15:00:38 Test execution started for "SBG, Overview (Raw Data)" using test spec testspecIMSSBG.properties
+2017/09/16 15:00:41 testspecIMSSBG.properties,SBG, Overview (Day),23,0, 89915
+2017/09/16 15:00:45 prompt name First Date:
+2017/09/16 15:00:45 prompt value [2017-08-10]
+2017/09/16 15:00:45 prompt name Last Date:
+2017/09/16 15:00:45 prompt value [2017-09-16]
+2017/09/16 15:00:45 prompt name Enter values for NE Name:
+2017/09/16 15:00:45 prompt value [sbg_02, sbg_04, ISSBG02, sbg_05, sbg_05, sbg_02, sbg_03, ISMGW02, sbg_05, sbg_05]
+2017/09/16 15:00:45 report name :SBG, CBA (Raw Data)
+2017/09/16 15:00:45 Test execution started for "SBG, CBA (Day)" using test spec testspecIMSSBG.properties
+2017/09/16 15:00:47 testspecIMSSBG.properties,SBG, Overview (Raw Data),52,0, 3506447
+2017/09/16 15:00:48 testspecIMSSBG.properties,SBG, CBA (Day),1,0, 0
+2017/09/16 15:00:52 prompt name Select raw data time resolution:
+2017/09/16 15:00:52 prompt value [Raw data]
+2017/09/16 15:00:52 prompt name First Date:
+2017/09/16 15:00:52 prompt value [2017-08-10]
+2017/09/16 15:00:52 prompt name Last Date:
+2017/09/16 15:00:52 prompt value [2017-09-16]
+2017/09/16 15:00:52 prompt name Enter values for NE Name:
+2017/09/16 15:00:52 prompt value [sbg_01, sbg_04, ISSBG01, ISSBG01, sbg_01, sbg_03, sbg_03, ISSBG02, sbg_01, sbg_04]
+2017/09/16 15:00:52 report name :SBG, Overview (Day)
+2017/09/16 15:00:52 Test execution started for "SBG, CBA (Raw Data)" using test spec testspecIMSSBG.properties
+2017/09/16 15:00:56 testspecIMSSBG.properties,SBG, CBA (Raw Data),1,0, 0
+2017/09/16 15:01:07 prompt name Enter value(s) for NE Name:
+2017/09/16 15:01:07 prompt value [ISSBG02, ISMGW02, ISMGW01, sbg_02, ISSBG02, ISSBG02, ISSBG01, sbg_01, sbg_01, ISSBG02]
+2017/09/16 15:01:07 prompt name First Date:
+2017/09/16 15:01:07 prompt value [2017-08-10]
+2017/09/16 15:01:07 prompt name Last Date:
+2017/09/16 15:01:07 prompt value [2017-09-16]
+2017/09/16 15:01:07 Test execution started for "SBG, Overview (Day)" using test spec testspecIMSSBG.properties
+2017/09/16 15:01:38 testspecIMSSBG.properties,SBG, Overview (Day),23,0, 89915
+2017/09/16 15:01:39 testspecIMSSBG.properties,SBG, Overview (Raw Data),41,0, 3506447
+2017/09/16 15:49:29 error :Test execution error for "SBG, Overview (Description)" using test spec testspecIMSSBG.properties
+2017/09/16 15:49:29 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/16 15:49:29 Test execution completed for "SBG, Overview (Description)" using test spec testspecIMSSBG.properties
+2017/09/16 15:49:56 error :Test execution error for "SBG, CBA (Day)" using test spec testspecIMSSBG.properties
+2017/09/16 15:49:56 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/16 15:49:56 Test execution completed for "SBG, CBA (Day)" using test spec testspecIMSSBG.properties
+2017/09/16 15:50:12 error :Test execution error for "SBG, CBA (Raw Data)" using test spec testspecIMSSBG.properties
+2017/09/16 15:50:12 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/16 15:50:12 Test execution completed for "SBG, CBA (Raw Data)" using test spec testspecIMSSBG.properties
+2017/09/16 15:50:30 error :Test execution error for "SBG, Overview (Description)" using test spec testspecIMSSBG.properties
+2017/09/16 15:50:30 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/16 15:50:30 Test execution completed for "SBG, Overview (Description)" using test spec testspecIMSSBG.properties
+2017/09/16 15:50:53 error :Test execution error for "SBG, CBA (Day)" using test spec testspecIMSSBG.properties
+2017/09/16 15:50:53 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/16 15:50:53 Test execution completed for "SBG, CBA (Day)" using test spec testspecIMSSBG.properties
+2017/09/16 15:50:55 error :Test execution error for "SBG, Overview (Day)" using test spec testspecIMSSBG.properties
+2017/09/16 15:50:55 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/16 15:50:55 Test execution completed for "SBG, Overview (Day)" using test spec testspecIMSSBG.properties
+2017/09/16 15:51:01 error :Test execution error for "SBG, CBA (Raw Data)" using test spec testspecIMSSBG.properties
+2017/09/16 15:51:01 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/16 15:51:01 Test execution completed for "SBG, CBA (Raw Data)" using test spec testspecIMSSBG.properties
+2017/09/16 15:51:05 error :Test execution error for "SBG, Overview (Raw Data)" using test spec testspecIMSSBG.properties
+2017/09/16 15:51:05 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/16 15:51:05 Test execution completed for "SBG, Overview (Raw Data)" using test spec testspecIMSSBG.properties
+2017/09/16 15:51:49 error :Test execution error for "SBG, Overview (Day)" using test spec testspecIMSSBG.properties
+2017/09/16 15:51:49 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/16 15:51:49 Test execution completed for "SBG, Overview (Day)" using test spec testspecIMSSBG.properties
+2017/09/16 15:51:53 error :Test execution error for "SBG, Overview (Raw Data)" using test spec testspecIMSSBG.properties
+2017/09/16 15:51:53 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/16 15:51:53 Test execution completed for "SBG, Overview (Raw Data)" using test spec testspecIMSSBG.properties

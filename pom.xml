@@ -1,0 +1,96 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.ericsson.eniq</groupId>
+	<artifactId>ERICepttool_CXP9035478</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>[${project.artifactId}] Project</name>
+	<description>Performance tool for testing BO reports.</description>
+	<build>
+	<pluginManagement>
+	<plugins>
+		<plugin>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-release-plugin</artifactId>
+			<version>2.4.1</version>
+		</plugin>
+		<plugin>
+        		<groupId>org.jacoco</groupId>
+        		<artifactId>jacoco-maven-plugin</artifactId>
+        		<version>0.7.7.201606060606</version>
+		</plugin>
+	</plugins>
+	</pluginManagement>
+		<sourceDirectory>src</sourceDirectory>
+		<plugins>
+
+			<plugin>
+        			<groupId>org.jacoco</groupId>
+        			<artifactId>jacoco-maven-plugin</artifactId>
+        			<configuration>
+                			<goalPrefix>jacoco</goalPrefix>
+        			</configuration>
+			</plugin>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.3</version>
+				<configuration>
+					<source>1.7</source>
+					<target>1.7</target>
+				</configuration>
+			</plugin>
+
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>exec-maven-plugin</artifactId>
+				<version>1.3.2</version>
+				<configuration>
+					<executable>mvn</executable>
+					<arguments>
+					<argument>clean</argument>
+				</arguments>
+				</configuration>
+			</plugin>
+			<plugin>
+       	 			<groupId>org.apache.maven.plugins</groupId>
+        			<artifactId>maven-release-plugin</artifactId>
+        			<configuration>
+                			<releaseProfiles>release</releaseProfiles>
+        			</configuration>
+			</plugin>
+		</plugins>
+
+	</build>
+	<profiles>
+		<profile>
+        	<id>integration_release</id>
+        		<properties>
+			<ericsson.scm.url>scm:git:[fetch=]ssh://gerritmirror.lmera.ericsson.se:29418/OSS/${project.groupId}/${project.artifactId}[push=]ssh://gerrit.ericsson.se:29418/OSS/${project.groupId}/${project.artifactId}</ericsson.scm.url>
+        		</properties>
+		</profile>
+	</profiles>
+	<dependencies>
+		<dependency>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-dependency-plugin</artifactId>
+			<version>3.0.2</version>
+		</dependency>
+		<dependency>
+			<groupId>org.codehaus.mojo</groupId>
+   			<artifactId>exec-maven-plugin</artifactId>
+   			<version>1.3.2</version>
+    			<exclusions>
+        		<exclusion>
+            		<groupId>*</groupId>
+            		<artifactId>*</artifactId>
+        		</exclusion>
+    			</exclusions>
+		</dependency>
+	</dependencies>
+<scm>
+        <connection>${ericsson.scm.url}/${project.artifactId}</connection>
+        <developerConnection>${ericsson.scm.url}/${project.artifactId}</developerConnection>
+        <tag>HEAD</tag>
+</scm>
+</project>
+

@@ -1,0 +1,236 @@
+2017/09/19 08:29:00 ERPT Startup
+2017/09/19 08:29:00 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/09/19 08:29:00 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsGGSN
+2017/09/19 08:29:00 Initializing Executors
+2017/09/19 08:29:00 Initialized 4 executors.
+2017/09/19 08:29:00 Test Excution will start at 08 30
+2017/09/19 08:29:59 Running testspecGGSN.properties
+2017/09/19 08:30:20 report name :GGSN, Overview (Description)
+2017/09/19 08:30:32 Test execution started for "GGSN, Overview (Description)" using test spec testspecGGSN.properties
+2017/09/19 08:30:32 report name :GGSN, Overview (Day)
+2017/09/19 08:30:34 testspecGGSN.properties,GGSN, Overview (Description),0,1037, 0
+2017/09/19 08:30:52 prompt name Enter value(s) for GGSN Name:
+2017/09/19 08:30:52 prompt value [EPG04, epg_01, epg_04, GGSN06, GGSN02, GGSN02, EPG08, EPG10, GGSN09, GGSN04]
+2017/09/19 08:30:52 prompt name First Date:
+2017/09/19 08:30:52 prompt value [2017-08-10]
+2017/09/19 08:30:52 prompt name Last Date:
+2017/09/19 08:30:52 prompt value [2017-09-19]
+2017/09/19 08:30:52 report name :GGSN, Overview (Raw Data)
+2017/09/19 08:30:52 Test execution started for "GGSN, Overview (Day)" using test spec testspecGGSN.properties
+2017/09/19 08:31:11 prompt name Select raw data time resolution:
+2017/09/19 08:31:11 prompt value [Raw data]
+2017/09/19 08:31:11 prompt name Enter value(s) for GGSN Name:
+2017/09/19 08:31:11 prompt value [EPG05, GGSN05, EPG01, GGSN06, GGSN09, EPG06, epg_03, EPG09, GGSN10, EPG06]
+2017/09/19 08:31:11 prompt name First Date:
+2017/09/19 08:31:11 prompt value [2017-08-10]
+2017/09/19 08:31:11 prompt name Last Date:
+2017/09/19 08:31:11 prompt value [2017-09-19]
+2017/09/19 08:31:11 Test execution started for "GGSN, Overview (Raw Data)" using test spec testspecGGSN.properties
+2017/09/19 08:31:13 testspecGGSN.properties,GGSN, Overview (Day),16,0, 291440
+2017/09/19 08:31:51 testspecGGSN.properties,GGSN, Overview (Raw Data),26,0, 6833880
+2017/09/19 08:36:02 ERPT Startup
+2017/09/19 08:36:02 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/09/19 08:36:02 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsGGSN
+2017/09/19 08:36:02 Initializing Executors
+2017/09/19 08:36:02 Initialized 4 executors.
+2017/09/19 08:36:02 Test Excution will start at 08 37
+2017/09/19 08:36:59 Running testspecGGSN.properties
+2017/09/19 08:37:10 report name :GGSN, Overview (Description)
+2017/09/19 08:37:18 report name :GGSN, Overview (Day)
+2017/09/19 08:37:18 Test execution started for "GGSN, Overview (Description)" using test spec testspecGGSN.properties
+2017/09/19 08:37:18 testspecGGSN.properties,GGSN, Overview (Description),0,1037, 0
+2017/09/19 08:37:32 prompt name Enter value(s) for GGSN Name:
+2017/09/19 08:37:32 prompt value [EPG06, epg_04, EPG05, epg_05, GGSN06, epg_02, epg_02, EPG03, EPG04, GGSN07]
+2017/09/19 08:37:32 prompt name First Date:
+2017/09/19 08:37:32 prompt value [2017-07-10]
+2017/09/19 08:37:32 prompt name Last Date:
+2017/09/19 08:37:32 prompt value [2017-09-19]
+2017/09/19 08:37:32 report name :GGSN, Overview (Raw Data)
+2017/09/19 08:37:32 Test execution started for "GGSN, Overview (Day)" using test spec testspecGGSN.properties
+2017/09/19 08:37:49 prompt name Select raw data time resolution:
+2017/09/19 08:37:49 prompt value [Raw data]
+2017/09/19 08:37:49 prompt name Enter value(s) for GGSN Name:
+2017/09/19 08:37:49 prompt value [GGSN06, GGSN09, EPG05, epg_02, EPG02, GGSN01, EPG01, EPG07, GGSN06, GGSN05]
+2017/09/19 08:37:49 prompt name First Date:
+2017/09/19 08:37:49 prompt value [2017-07-10]
+2017/09/19 08:37:49 prompt name Last Date:
+2017/09/19 08:37:49 prompt value [2017-09-19]
+2017/09/19 08:37:49 Test execution started for "GGSN, Overview (Raw Data)" using test spec testspecGGSN.properties
+2017/09/19 08:37:52 testspecGGSN.properties,GGSN, Overview (Day),16,0, 291440
+2017/09/19 08:38:30 testspecGGSN.properties,GGSN, Overview (Raw Data),34,0, 12471180
+2017/09/19 10:13:46 ERPT Startup
+2017/09/19 10:13:46 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/09/19 10:13:46 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsCSCF
+2017/09/19 10:13:46 Initializing Executors
+2017/09/19 10:13:46 Initialized 4 executors.
+2017/09/19 10:13:46 Test Excution will start at 10 15
+2017/09/19 10:14:59 Running testspecCSCF.properties
+2017/09/19 10:15:14 report name :CSCF, Overview (Raw Data)
+2017/09/19 10:15:35 prompt name Select raw data time resolution:
+2017/09/19 10:15:35 prompt value [Raw data]
+2017/09/19 10:15:35 prompt name Enter value(s) for CSCF Node:
+2017/09/19 10:15:35 prompt value [cscf_03, cscf_02, CSCF03, CSCF03, CSCF01, cscf_03, CSCF02, CSCF01, CSCF01, CSCF04]
+2017/09/19 10:15:35 prompt name First Date:
+2017/09/19 10:15:35 prompt value [2017-08-10]
+2017/09/19 10:15:35 prompt name Last Date:
+2017/09/19 10:15:35 prompt value [2017-09-19]
+2017/09/19 10:15:35 report name :CSCF, CBA (Description)
+2017/09/19 10:15:35 Test execution started for "CSCF, Overview (Raw Data)" using test spec testspecCSCF.properties
+2017/09/19 10:15:46 report name :CSCF, Traffic Overview (Raw Data)
+2017/09/19 10:15:46 Test execution started for "CSCF, CBA (Description)" using test spec testspecCSCF.properties
+2017/09/19 10:15:49 testspecCSCF.properties,CSCF, CBA (Description),1,1037, 0
+2017/09/19 10:16:01 prompt name Select raw data time resolution:
+2017/09/19 10:16:01 prompt value [Raw data]
+2017/09/19 10:16:01 prompt name Enter value(s) for CSCF Node:
+2017/09/19 10:16:01 prompt value [cscf_03, CSCF03, cscf_03, CSCF03, cscf_05, CSCF03, cscf_05, cscf_04, cscf_05, cscf_02]
+2017/09/19 10:16:01 prompt name First Date:
+2017/09/19 10:16:01 prompt value [2017-08-10]
+2017/09/19 10:16:01 prompt name Last Date:
+2017/09/19 10:16:01 prompt value [2017-09-19]
+2017/09/19 10:16:01 report name :CSCF, vDicos (Raw Data)
+2017/09/19 10:16:13 prompt name Select raw data time resolution:
+2017/09/19 10:16:13 prompt value [Raw data]
+2017/09/19 10:16:13 prompt name Enter value(s) for CSCF Node:
+2017/09/19 10:16:13 prompt value [cscf_04, CSCF04, CSCF01, cscf_04, CSCF04, CSCF04, CSCF04, CSCF03, cscf_03, cscf_03]
+2017/09/19 10:16:13 prompt name First Date:
+2017/09/19 10:16:13 prompt value [2017-08-10]
+2017/09/19 10:16:13 prompt name Last Date:
+2017/09/19 10:16:13 prompt value [2017-09-19]
+2017/09/19 10:16:13 report name :CSCF, Overview (Day)
+2017/09/19 10:16:13 Test execution started for "CSCF, vDicos (Raw Data)" using test spec testspecCSCF.properties
+2017/09/19 10:16:28 testspecCSCF.properties,CSCF, vDicos (Raw Data),9,0, 0
+2017/09/19 10:16:33 prompt name Enter value(s) for CSCF Node:
+2017/09/19 10:16:33 prompt value [cscf_03, CSCF05, CSCF04, cscf_02, cscf_03, cscf_01, cscf_01, cscf_04, CSCF03, CSCF02]
+2017/09/19 10:16:33 prompt name First Date:
+2017/09/19 10:16:33 prompt value [2017-08-10]
+2017/09/19 10:16:33 prompt name Last Date:
+2017/09/19 10:16:33 prompt value [2017-09-19]
+2017/09/19 10:16:33 Test execution started for "CSCF, Overview (Day)" using test spec testspecCSCF.properties
+2017/09/19 10:16:33 report name :CSCF, CBA (Day)
+2017/09/19 10:16:38 testspecCSCF.properties,CSCF, Traffic Overview (Raw Data),21,75241, 3139381897
+2017/09/19 10:16:44 prompt name Enter value(s) for CSCF Node:
+2017/09/19 10:16:44 prompt value [cscf_03, cscf_05, cscf_05, cscf_02, cscf_03, CSCF03, CSCF03, cscf_01, cscf_04, cscf_04]
+2017/09/19 10:16:44 prompt name First Date:
+2017/09/19 10:16:44 prompt value [2017-08-10]
+2017/09/19 10:16:44 prompt name Last Date:
+2017/09/19 10:16:44 prompt value [2017-09-19]
+2017/09/19 10:16:44 report name :CSCF, vDicos (Day)
+2017/09/19 10:16:51 testspecCSCF.properties,CSCF, CBA (Day),4,5, 753696
+2017/09/19 10:16:56 prompt name Enter value(s) for CSCF Node:
+2017/09/19 10:16:56 prompt value [cscf_03, cscf_01, cscf_04, CSCF05, cscf_05, CSCF01, CSCF05, cscf_05, CSCF01, cscf_01]
+2017/09/19 10:16:56 prompt name First Date:
+2017/09/19 10:16:56 prompt value [2017-08-10]
+2017/09/19 10:16:56 prompt name Last Date:
+2017/09/19 10:16:56 prompt value [2017-09-19]
+2017/09/19 10:16:56 report name :CSCF, Overview (Description)
+2017/09/19 10:16:56 Test execution started for "CSCF, vDicos (Day)" using test spec testspecCSCF.properties
+2017/09/19 10:16:57 testspecCSCF.properties,CSCF, Overview (Raw Data),52,77833, 1530002917
+2017/09/19 10:17:08 report name :CSCF, CBA (Raw Data)
+2017/09/19 10:17:08 Test execution started for "CSCF, Overview (Description)" using test spec testspecCSCF.properties
+2017/09/19 10:17:08 testspecCSCF.properties,CSCF, Overview (Description),0,2074, 0
+2017/09/19 10:17:08 testspecCSCF.properties,CSCF, vDicos (Day),7,0, 0
+2017/09/19 10:17:14 testspecCSCF.properties,CSCF, Overview (Day),29,1004, 32110286
+2017/09/19 10:17:18 prompt name Select raw data time resolution:
+2017/09/19 10:17:18 prompt value [Raw data]
+2017/09/19 10:17:18 prompt name Enter value(s) for CSCF Node:
+2017/09/19 10:17:18 prompt value [cscf_02, CSCF03, cscf_05, CSCF05, cscf_02, CSCF03, CSCF05, cscf_01, cscf_01, CSCF05]
+2017/09/19 10:17:18 prompt name First Date:
+2017/09/19 10:17:18 prompt value [2017-08-10]
+2017/09/19 10:17:18 prompt name Last Date:
+2017/09/19 10:17:18 prompt value [2017-09-19]
+2017/09/19 10:17:18 report name :CSCF, Traffic Overview (Day)
+2017/09/19 10:17:18 Test execution started for "CSCF, CBA (Raw Data)" using test spec testspecCSCF.properties
+2017/09/19 10:17:24 testspecCSCF.properties,CSCF, CBA (Raw Data),2,3, 2637936
+2017/09/19 10:17:33 prompt name Enter value(s) for CSCF Node:
+2017/09/19 10:17:33 prompt value [CSCF04, cscf_02, cscf_02, CSCF01, CSCF02, CSCF03, CSCF02, cscf_02, cscf_03, CSCF03]
+2017/09/19 10:17:33 prompt name First Date:
+2017/09/19 10:17:33 prompt value [2017-08-10]
+2017/09/19 10:17:33 prompt name Last Date:
+2017/09/19 10:17:33 prompt value [2017-09-19]
+2017/09/19 10:17:33 report name :CSCF, vDicos (Description)
+2017/09/19 10:17:33 Test execution started for "CSCF, Traffic Overview (Day)" using test spec testspecCSCF.properties
+2017/09/19 10:17:45 report name :CSCF, TSP (Day)
+2017/09/19 10:17:45 Test execution started for "CSCF, vDicos (Description)" using test spec testspecCSCF.properties
+2017/09/19 10:17:45 testspecCSCF.properties,CSCF, vDicos (Description),0,2074, 0
+2017/09/19 10:17:54 testspecCSCF.properties,CSCF, Traffic Overview (Day),15,472, 26553436
+2017/09/19 10:17:58 prompt name Enter value(s) for CSCF Node:
+2017/09/19 10:17:58 prompt value [cscf_01, cscf_03, CSCF05, cscf_03, cscf_02, cscf_02, cscf_04, CSCF05, CSCF04, cscf_02]
+2017/09/19 10:17:58 prompt name First Date:
+2017/09/19 10:17:58 prompt value [2017-08-10]
+2017/09/19 10:17:58 prompt name Last Date:
+2017/09/19 10:17:58 prompt value [2017-09-19]
+2017/09/19 10:17:58 report name :CSCF, TSP (Raw Data)
+2017/09/19 10:17:58 Test execution started for "CSCF, TSP (Day)" using test spec testspecCSCF.properties
+2017/09/19 10:18:04 testspecCSCF.properties,CSCF, TSP (Day),3,4, 9044352
+2017/09/19 10:18:11 prompt name Select raw data time resolution:
+2017/09/19 10:18:11 prompt value [Raw data]
+2017/09/19 10:18:11 prompt name Enter value(s) for CSCF Node:
+2017/09/19 10:18:11 prompt value [CSCF04, cscf_01, cscf_04, cscf_01, CSCF01, CSCF04, CSCF01, CSCF05, CSCF04, CSCF05]
+2017/09/19 10:18:11 prompt name First Date:
+2017/09/19 10:18:11 prompt value [2017-08-10]
+2017/09/19 10:18:11 prompt name Last Date:
+2017/09/19 10:18:11 prompt value [2017-09-19]
+2017/09/19 10:18:11 report name :CSCF, Traffic Overview (Description)
+2017/09/19 10:18:11 Test execution started for "CSCF, TSP (Raw Data)" using test spec testspecCSCF.properties
+2017/09/19 10:18:21 testspecCSCF.properties,CSCF, TSP (Raw Data),6,2, 12059136
+2017/09/19 10:18:22 report name :CSCF, TSP (Description)
+2017/09/19 10:18:22 Test execution started for "CSCF, Traffic Overview (Description)" using test spec testspecCSCF.properties
+2017/09/19 10:18:23 testspecCSCF.properties,CSCF, Traffic Overview (Description),0,2074, 0
+2017/09/19 10:18:33 Test execution started for "CSCF, TSP (Description)" using test spec testspecCSCF.properties
+2017/09/19 10:18:34 testspecCSCF.properties,CSCF, TSP (Description),0,2074, 0
+2017/09/19 11:01:46 ERPT Startup
+2017/09/19 11:01:46 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/09/19 11:01:46 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsPRBS
+2017/09/19 11:01:46 Initializing Executors
+2017/09/19 11:01:46 Initialized 4 executors.
+2017/09/19 11:01:46 Test Excution will start at 11 02
+2017/09/19 11:03:11 ERPT Startup
+2017/09/19 11:03:11 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/09/19 11:03:11 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsPRBS
+2017/09/19 11:03:11 Initializing Executors
+2017/09/19 11:03:11 Initialized 4 executors.
+2017/09/19 11:03:11 Test Excution will start at 11 04
+2017/09/19 11:03:59 Running testspecsPRBS.properties
+2017/09/19 11:04:13 report name :PRBS, Overview (EUtranCell Day)
+2017/09/19 11:04:24 prompt name Enter value(s) for EUtranCell:
+2017/09/19 11:04:24 prompt value [ERBSG2726_MSRBS-V2-LTE-3, ERBS660-2, ERBS695-1, ERBSG2351_MSRBS-V2-LTE-3, ERBS1005-2, ERBS220-4, ERBS100-1, ERBS626-4, ERBSG2501_MSRBS-V2-LTE-2, ERBS1005-1]
+2017/09/19 11:04:24 prompt name First Date:
+2017/09/19 11:04:24 prompt value [2017-08-10]
+2017/09/19 11:04:24 prompt name Last Date:
+2017/09/19 11:04:24 prompt value [2017-09-19]
+2017/09/19 11:04:24 report name :PRBS, Overview (Description)
+2017/09/19 11:04:24 Test execution started for "PRBS, Overview (EUtranCell Day)" using test spec testspecsPRBS.properties
+2017/09/19 11:04:33 testspecsPRBS.properties,PRBS, Overview (EUtranCell Day),2,0, 0
+2017/09/19 11:04:36 report name :PRBS, Overview (EUtranCell Raw Data)
+2017/09/19 11:04:36 Test execution started for "PRBS, Overview (Description)" using test spec testspecsPRBS.properties
+2017/09/19 11:04:40 testspecsPRBS.properties,PRBS, Overview (Description),0,1440, 0
+2017/09/19 11:04:47 prompt name Select raw data time resolution:
+2017/09/19 11:04:47 prompt value [Raw data]
+2017/09/19 11:04:47 prompt name Enter value(s) for EUtranCell:
+2017/09/19 11:04:47 prompt value [ERBS1002-3, ERBSG2489_MSRBS-V2-LTE-1, ERBSG2750_MSRBS-V2-LTE-4, ERBS400-4, ERBS1001-1, ERBS739-4, ERBSG2401_MSRBS-V2-LTE-3, ERBSG2363_MSRBS-V2-LTE-4, ERBS976-2, ERBSG2538_MSRBS-V2-LTE-4]
+2017/09/19 11:04:47 prompt name First Date:
+2017/09/19 11:04:47 prompt value [2017-08-10]
+2017/09/19 11:04:47 prompt name Last Date:
+2017/09/19 11:04:47 prompt value [2017-09-19]
+2017/09/19 11:04:47 report name :PRBS, Overview (PRBS Day)
+2017/09/19 11:04:47 Test execution started for "PRBS, Overview (EUtranCell Raw Data)" using test spec testspecsPRBS.properties
+2017/09/19 11:05:00 prompt name Enter values for ERBS Name:
+2017/09/19 11:05:00 prompt value [ERBS1007, ERBSG2194_MSRBS-V2-LTE, ERBSG2421_MSRBS-V2-LTE, ERBS29, ERBS1028, ERBS1027, ERBS92, ERBSG2149_MSRBS-V2-LTE, ERBS740, ERBS1021]
+2017/09/19 11:05:00 prompt name First Date:
+2017/09/19 11:05:00 prompt value [2017-08-10]
+2017/09/19 11:05:00 prompt name Last Date:
+2017/09/19 11:05:00 prompt value [2017-09-19]
+2017/09/19 11:05:00 report name :PRBS, Overview (PRBS Raw Data)
+2017/09/19 11:05:00 Test execution started for "PRBS, Overview (PRBS Day)" using test spec testspecsPRBS.properties
+2017/09/19 11:05:08 testspecsPRBS.properties,PRBS, Overview (EUtranCell Raw Data),4,0, 0
+2017/09/19 11:05:08 testspecsPRBS.properties,PRBS, Overview (PRBS Day),7,0, 0
+2017/09/19 11:05:11 prompt name Select raw data time resolution:
+2017/09/19 11:05:11 prompt value [Raw data]
+2017/09/19 11:05:11 prompt name Enter values for ERBS Name:
+2017/09/19 11:05:11 prompt value [ERBS1017, ERBS1021, ERBS104, ERBSG2467_MSRBS-V2-LTE, ERBS1041, ERBS155, ERBS1026, ERBS1040, ERBS1037, ERBS74]
+2017/09/19 11:05:11 prompt name First Date:
+2017/09/19 11:05:11 prompt value [2017-08-10]
+2017/09/19 11:05:11 prompt name Last Date:
+2017/09/19 11:05:11 prompt value [2017-09-19]
+2017/09/19 11:05:11 Test execution started for "PRBS, Overview (PRBS Raw Data)" using test spec testspecsPRBS.properties
+2017/09/19 11:06:46 testspecsPRBS.properties,PRBS, Overview (PRBS Raw Data),82,0, 0

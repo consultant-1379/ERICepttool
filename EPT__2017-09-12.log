@@ -1,0 +1,472 @@
+2017/09/12 07:03:45 ERPT Startup
+2017/09/12 07:03:45 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 07:03:45 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 07:03:45 Initializing Executors
+2017/09/12 07:03:45 Initialized 1 executors.
+2017/09/12 07:03:45 Test Excution will start at 07 04
+2017/09/12 07:03:59 Running testspec1.properties
+2017/09/12 07:04:32 prompt name Enter value(s) for ERBS Name
+2017/09/12 07:04:32 prompt value [ERBS2259, ERBS279, ERBS1583, ERBSG2500_MSRBS-V2-LTE, ERBS1673, ERBS639, ERBS1403, ERBS1009, ERBS102, ERBS728]
+2017/09/12 07:04:32 prompt name First Date:
+2017/09/12 07:04:32 prompt value [2017-08-18]
+2017/09/12 07:04:32 prompt name Last Date:
+2017/09/12 07:04:32 prompt value [2017-09-12]
+2017/09/12 07:04:32 Test execution started for "ERBS, Overview (ERBS Day)" using test spec testspec1.properties
+2017/09/12 07:10:37 testspec1.properties,ERBS, Overview (ERBS Day),19,2256, 528177567
+2017/09/12 10:29:33 ERPT Startup
+2017/09/12 10:29:33 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 10:29:33 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 10:29:33 Initializing Executors
+2017/09/12 10:29:33 Initialized 1 executors.
+2017/09/12 10:29:33 Test Excution will start at 10 30
+2017/09/12 10:29:59 Running testspec1.properties
+2017/09/12 10:30:32 prompt name Select raw data time resolution:
+2017/09/12 10:30:32 prompt value [Raw data]
+2017/09/12 10:30:32 prompt name Enter value(s) for ERBS Name
+2017/09/12 10:30:32 prompt value [ERBS102, ERBS729, ERBS2033, ERBS323, ERBS458, ERBS1028, ERBS1358, ERBS1042, ERBS2258, ERBS1023]
+2017/09/12 10:30:32 prompt name First Date:
+2017/09/12 10:30:32 prompt value [2017-09-10]
+2017/09/12 10:30:32 prompt name Last Date:
+2017/09/12 10:30:32 prompt value [2017-09-12]
+2017/09/12 10:30:32 Test execution started for "ERBS, Overview (ERBS Raw Data)" using test spec testspec1.properties
+2017/09/12 10:30:35 error :Test execution error for "ERBS, Overview (ERBS Raw Data)" using test spec testspec1.properties
+2017/09/12 10:30:35 error <error>
+    <error_code>WSR 00102</error_code>
+    <message>Illegal argument ("The following database error occurred: [SAP][ODBC Driver][SQL Anywhere]Database server not found. For information about this error, please refer to SAP Knowledge Base Article 2054721 on the SAP Support Portal. (IES 10901)")</message>
+</error>
+
+2017/09/12 10:30:35 Test execution completed for "ERBS, Overview (ERBS Raw Data)" using test spec testspec1.properties
+2017/09/12 10:30:50 prompt name Select raw data time resolution:
+2017/09/12 10:30:50 prompt value [Raw data]
+2017/09/12 10:30:50 prompt name First Date:
+2017/09/12 10:30:50 prompt value [2017-09-10]
+2017/09/12 10:30:50 prompt name Last Date:
+2017/09/12 10:30:50 prompt value [2017-09-12]
+2017/09/12 10:30:50 Test execution started for "ERBS, Overview (Network Raw Data)" using test spec testspec1.properties
+2017/09/12 10:31:16 prompt name Enter value(s) for ERBS Name
+2017/09/12 10:31:16 prompt value [ERBS1004, ERBS1584, ERBS1178, ERBS1358, ERBSG2272_MSRBS-V2-LTE, ERBS1359, ERBS1026, ERBS729, ERBS2348, ERBS1763]
+2017/09/12 10:31:16 prompt name First Date:
+2017/09/12 10:31:16 prompt value [2017-09-10]
+2017/09/12 10:31:16 prompt name Last Date:
+2017/09/12 10:31:16 prompt value [2017-09-12]
+2017/09/12 10:31:36 error :Test execution error for "ERBS, Overview (Network Raw Data)" using test spec testspec1.properties
+2017/09/12 10:31:36 error <error>
+    <error_code>WSR 00102</error_code>
+    <message>Illegal argument ("The following database error occurred: [SAP][ODBC Driver][SQL Anywhere]Database server not found. For information about this error, please refer to SAP Knowledge Base Article 2054721 on the SAP Support Portal. (IES 10901)")</message>
+</error>
+
+2017/09/12 10:31:36 Test execution completed for "ERBS, Overview (Network Raw Data)" using test spec testspec1.properties
+2017/09/12 10:31:36 Test execution started for "ERBS, Overview (ERBS Day)" using test spec testspec1.properties
+2017/09/12 10:31:38 error :Test execution error for "ERBS, Overview (ERBS Day)" using test spec testspec1.properties
+2017/09/12 10:31:38 error <error>
+    <error_code>WSR 00102</error_code>
+    <message>Illegal argument ("The following database error occurred: [SAP][ODBC Driver][SQL Anywhere]Database server not found. For information about this error, please refer to SAP Knowledge Base Article 2054721 on the SAP Support Portal. (IES 10901)")</message>
+</error>
+
+2017/09/12 10:31:38 Test execution completed for "ERBS, Overview (ERBS Day)" using test spec testspec1.properties
+2017/09/12 10:41:31 ERPT Startup
+2017/09/12 10:41:31 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 10:41:31 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 10:41:31 Initializing Executors
+2017/09/12 10:41:31 Initialized 1 executors.
+2017/09/12 10:41:31 Test Excution will start at 10 38
+2017/09/12 10:41:54 ERPT Startup
+2017/09/12 10:41:54 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 10:41:54 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 10:41:54 Initializing Executors
+2017/09/12 10:41:54 Initialized 1 executors.
+2017/09/12 10:41:54 Test Excution will start at 10 42
+2017/09/12 10:41:59 Running testspec1.properties
+2017/09/12 10:42:33 prompt name Select raw data time resolution:
+2017/09/12 10:42:33 prompt value [Raw data]
+2017/09/12 10:42:33 prompt name Enter value(s) for ERBS Name
+2017/09/12 10:42:33 prompt value [ERBSG2364_MSRBS-V2-LTE, ERBS1031, ERBS1005, ERBSG2545_MSRBS-V2-LTE, ERBSG2546_MSRBS-V2-LTE, ERBSG2272_MSRBS-V2-LTE, ERBS1449, ERBS1628, ERBS1012, ERBS2078]
+2017/09/12 10:42:33 prompt name First Date:
+2017/09/12 10:42:33 prompt value [2017-09-10]
+2017/09/12 10:42:33 prompt name Last Date:
+2017/09/12 10:42:33 prompt value [2017-09-12]
+2017/09/12 10:42:33 Test execution started for "ERBS, Overview (ERBS Raw Data)" using test spec testspec1.properties
+2017/09/12 10:42:51 prompt name Select raw data time resolution:
+2017/09/12 10:42:51 prompt value [Raw data]
+2017/09/12 10:42:51 prompt name First Date:
+2017/09/12 10:42:51 prompt value [2017-09-10]
+2017/09/12 10:42:51 prompt name Last Date:
+2017/09/12 10:42:51 prompt value [2017-09-12]
+2017/09/12 10:43:16 prompt name Enter value(s) for ERBS Name
+2017/09/12 10:43:16 prompt value [ERBS459, ERBS1089, ERBS2168, ERBS503, ERBS101, ERBS549, ERBS2258, ERBS1943, ERBS863, ERBS999]
+2017/09/12 10:43:16 prompt name First Date:
+2017/09/12 10:43:16 prompt value [2017-09-10]
+2017/09/12 10:43:16 prompt name Last Date:
+2017/09/12 10:43:16 prompt value [2017-09-12]
+2017/09/12 10:43:46 prompt name Select raw data time resolution:
+2017/09/12 10:43:46 prompt value [Raw data]
+2017/09/12 10:43:46 prompt name Enter values for EUtranCell Id:
+2017/09/12 10:43:46 prompt value [ERBS379-3, ERBS2347-4, ERBS1931-3, ERBS423-2, ERBS2223-2, ERBS851-2, ERBS999-1, ERBS1358-1, ERBS66-4, ERBSG273_MSRBS-V2-LTE-4]
+2017/09/12 10:43:46 prompt name First Date:
+2017/09/12 10:43:46 prompt value [2017-09-10]
+2017/09/12 10:43:46 prompt name Last Date:
+2017/09/12 10:43:46 prompt value [2017-09-12]
+2017/09/12 10:44:23 prompt name Enter values for EUtranCell Id:
+2017/09/12 10:44:23 prompt value [ERBS310-2, ERBSG261_MSRBS-V2-LTE-2, ERBS930-1, ERBS469-2, ERBS1898-4, ERBS57-4, ERBS2200-3, ERBS1143-2, ERBSG2283_MSRBS-V2-LTE-3, ERBS1189-2]
+2017/09/12 10:44:23 prompt name First Date:
+2017/09/12 10:44:23 prompt value [2017-09-10]
+2017/09/12 10:44:23 prompt name Last Date:
+2017/09/12 10:44:23 prompt value [2017-09-12]
+2017/09/12 10:44:49 prompt name First Date:
+2017/09/12 10:44:49 prompt value [2017-09-10]
+2017/09/12 10:44:49 prompt name Last Date:
+2017/09/12 10:44:49 prompt value [2017-09-12]
+2017/09/12 10:46:46 ERPT Startup
+2017/09/12 10:46:46 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 10:46:46 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 10:46:46 Initializing Executors
+2017/09/12 10:46:46 Initialized 1 executors.
+2017/09/12 10:46:46 Test Excution will start at 10 47
+2017/09/12 10:46:59 Running testspec1.properties
+2017/09/12 10:47:32 prompt name Enter value(s) for ERBS Name
+2017/09/12 10:47:32 prompt value [ERBS2123, ERBS458, ERBS1022, ERBS1041, ERBSG2363_MSRBS-V2-LTE, ERBS549, ERBS1022, ERBS954, ERBS103, ERBS2078]
+2017/09/12 10:47:32 prompt name First Date:
+2017/09/12 10:47:32 prompt value [2017-09-10]
+2017/09/12 10:47:32 prompt name Last Date:
+2017/09/12 10:47:32 prompt value [2017-09-12]
+2017/09/12 10:47:32 Test execution started for "ERBS, Overview (ERBS Day)" using test spec testspec1.properties
+2017/09/12 10:53:55 testspec1.properties,ERBS, Overview (ERBS Day),17,249, 57093600
+2017/09/12 10:55:03 ERPT Startup
+2017/09/12 10:55:03 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 10:55:03 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 10:55:03 Initializing Executors
+2017/09/12 10:55:03 Initialized 1 executors.
+2017/09/12 10:55:03 Test Excution will start at 10 55
+2017/09/12 10:55:30 ERPT Startup
+2017/09/12 10:55:30 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 10:55:30 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 10:55:30 Initializing Executors
+2017/09/12 10:55:30 Initialized 1 executors.
+2017/09/12 10:55:30 Test Excution will start at 10 56
+2017/09/12 10:55:59 Running testspec1.properties
+2017/09/12 11:02:55 ERPT Startup
+2017/09/12 11:02:55 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 11:02:55 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 11:02:55 Initializing Executors
+2017/09/12 11:02:55 Initialized 1 executors.
+2017/09/12 11:02:55 Test Excution will start at 11 03
+2017/09/12 11:02:59 Running testspec1.properties
+2017/09/12 11:04:13 ERPT Startup
+2017/09/12 11:04:13 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 11:04:13 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 11:04:13 Initializing Executors
+2017/09/12 11:04:13 Initialized 1 executors.
+2017/09/12 11:04:13 Test Excution will start at 11 04
+2017/09/12 11:04:42 ERPT Startup
+2017/09/12 11:04:42 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 11:04:42 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 11:04:42 Initializing Executors
+2017/09/12 11:04:42 Initialized 1 executors.
+2017/09/12 11:04:42 Test Excution will start at 11 05
+2017/09/12 11:04:59 Running testspec1.properties
+2017/09/12 11:05:34 prompt name Select raw data time resolution:
+2017/09/12 11:05:34 prompt value [Raw data]
+2017/09/12 11:05:34 prompt name Enter value(s) for ERBS Name
+2017/09/12 11:05:34 prompt value [ERBSG2455_MSRBS-V2-LTE, ERBS1222, ERBS1023, ERBS100, ERBS1001, ERBS1223, ERBS1028, ERBSG2590_MSRBS-V2-LTE, ERBS1132, ERBS1808]
+2017/09/12 11:05:34 prompt name First Date:
+2017/09/12 11:05:34 prompt value [2017-09-10]
+2017/09/12 11:05:34 prompt name Last Date:
+2017/09/12 11:05:34 prompt value [2017-09-12]
+2017/09/12 11:05:34 Test execution started for "ERBS, Overview (ERBS Raw Data)" using test spec testspec1.properties
+2017/09/12 11:05:53 prompt name Select raw data time resolution:
+2017/09/12 11:05:53 prompt value [Raw data]
+2017/09/12 11:05:53 prompt name First Date:
+2017/09/12 11:05:53 prompt value [2017-09-10]
+2017/09/12 11:05:53 prompt name Last Date:
+2017/09/12 11:05:53 prompt value [2017-09-12]
+2017/09/12 11:06:16 prompt name Enter value(s) for ERBS Name
+2017/09/12 11:06:16 prompt value [ERBS322, ERBS1269, ERBS1023, ERBS502, ERBS1178, ERBS1039, ERBS953, ERBS1037, ERBS1132, ERBS2123]
+2017/09/12 11:06:16 prompt name First Date:
+2017/09/12 11:06:16 prompt value [2017-09-10]
+2017/09/12 11:06:16 prompt name Last Date:
+2017/09/12 11:06:16 prompt value [2017-09-12]
+2017/09/12 11:06:44 prompt name Select raw data time resolution:
+2017/09/12 11:06:44 prompt value [Raw data]
+2017/09/12 11:06:44 prompt name Enter values for EUtranCell Id:
+2017/09/12 11:06:44 prompt value [ERBS423-3, ERBSG2181_MSRBS-V2-LTE-1, ERBS874-3, ERBS987-2, ERBSG2453_MSRBS-V2-LTE-4, ERBS1977-3, ERBS210-1, ERBS1312-1, ERBS862-4, ERBS1492-4]
+2017/09/12 11:06:44 prompt name First Date:
+2017/09/12 11:06:44 prompt value [2017-09-10]
+2017/09/12 11:06:44 prompt name Last Date:
+2017/09/12 11:06:44 prompt value [2017-09-12]
+2017/09/12 11:07:19 prompt name Enter values for EUtranCell Id:
+2017/09/12 11:07:19 prompt value [ERBSG2112_MSRBS-V2-LTE-4, ERBSG2533_MSRBS-V2-LTE-3, ERBS1143-2, ERBS10-4, ERBS100-2, ERBS908-1, ERBS1041-4, ERBS1413-2, ERBSG2488_MSRBS-V2-LTE-3, ERBS874-2]
+2017/09/12 11:07:19 prompt name First Date:
+2017/09/12 11:07:19 prompt value [2017-09-10]
+2017/09/12 11:07:19 prompt name Last Date:
+2017/09/12 11:07:19 prompt value [2017-09-12]
+2017/09/12 11:07:43 prompt name First Date:
+2017/09/12 11:07:43 prompt value [2017-09-10]
+2017/09/12 11:07:43 prompt name Last Date:
+2017/09/12 11:07:43 prompt value [2017-09-12]
+2017/09/12 11:10:00 ERPT Startup
+2017/09/12 11:10:00 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 11:10:00 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 11:10:00 Initializing Executors
+2017/09/12 11:10:00 Initialized 1 executors.
+2017/09/12 11:10:00 Test Excution will start at 11 10
+2017/09/12 11:10:21 ERPT Startup
+2017/09/12 11:10:21 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 11:10:21 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 11:10:21 Initializing Executors
+2017/09/12 11:10:21 Initialized 1 executors.
+2017/09/12 11:10:21 Test Excution will start at 11 11
+2017/09/12 11:10:59 Running testspec1.properties
+2017/09/12 11:11:33 prompt name Select raw data time resolution:
+2017/09/12 11:11:33 prompt value [Raw data]
+2017/09/12 11:11:33 prompt name Enter value(s) for ERBS Name
+2017/09/12 11:11:33 prompt value [ERBSG2228_MSRBS-V2-LTE, ERBS1449, ERBS1719, ERBS1943, ERBS1583, ERBS1004, ERBS502, ERBS1035, ERBS279, ERBSG2454_MSRBS-V2-LTE]
+2017/09/12 11:11:33 prompt name First Date:
+2017/09/12 11:11:33 prompt value [2017-09-10]
+2017/09/12 11:11:33 prompt name Last Date:
+2017/09/12 11:11:33 prompt value [2017-09-12]
+2017/09/12 11:11:33 Test execution started for "ERBS, Overview (ERBS Raw Data)" using test spec testspec1.properties
+2017/09/12 11:11:51 prompt name Select raw data time resolution:
+2017/09/12 11:11:51 prompt value [Raw data]
+2017/09/12 11:11:51 prompt name First Date:
+2017/09/12 11:11:51 prompt value [2017-09-10]
+2017/09/12 11:11:51 prompt name Last Date:
+2017/09/12 11:11:51 prompt value [2017-09-12]
+2017/09/12 11:12:16 prompt name Enter value(s) for ERBS Name
+2017/09/12 11:12:16 prompt value [ERBS1313, ERBS1989, ERBS102, ERBS1037, ERBS1037, ERBS2213, ERBS2394, ERBS1038, ERBS1043, ERBS1719]
+2017/09/12 11:12:16 prompt name First Date:
+2017/09/12 11:12:16 prompt value [2017-09-10]
+2017/09/12 11:12:16 prompt name Last Date:
+2017/09/12 11:12:16 prompt value [2017-09-12]
+2017/09/12 11:12:48 prompt name Select raw data time resolution:
+2017/09/12 11:12:48 prompt value [Raw data]
+2017/09/12 11:12:48 prompt name Enter values for EUtranCell Id:
+2017/09/12 11:12:48 prompt value [ERBS851-3, ERBS1099-2, ERBS2133-2, ERBS1222-1, ERBS1740-1, ERBS1369-2, ERBS1909-2, ERBS446-3, ERBS423-3, ERBS2291-3]
+2017/09/12 11:12:48 prompt name First Date:
+2017/09/12 11:12:48 prompt value [2017-09-10]
+2017/09/12 11:12:48 prompt name Last Date:
+2017/09/12 11:12:48 prompt value [2017-09-12]
+2017/09/12 11:13:27 prompt name Enter values for EUtranCell Id:
+2017/09/12 11:13:27 prompt value [ERBS2031-4, ERBS1852-4, ERBS1729-2, ERBS2145-1, ERBS21-4, ERBSG2124_MSRBS-V2-LTE-2, ERBSG2409_MSRBS-V2-LTE-1, ERBS1064-4, ERBS2009-4, ERBS356-2]
+2017/09/12 11:13:27 prompt name First Date:
+2017/09/12 11:13:27 prompt value [2017-09-10]
+2017/09/12 11:13:27 prompt name Last Date:
+2017/09/12 11:13:27 prompt value [2017-09-12]
+2017/09/12 11:13:54 prompt name First Date:
+2017/09/12 11:13:54 prompt value [2017-09-10]
+2017/09/12 11:13:54 prompt name Last Date:
+2017/09/12 11:13:54 prompt value [2017-09-12]
+2017/09/12 11:18:04 testspec1.properties,ERBS, Overview (ERBS Raw Data),7,23636, 2304173222
+2017/09/12 11:51:00 ERPT Startup
+2017/09/12 11:51:00 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 11:51:00 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 11:51:00 Initializing Executors
+2017/09/12 11:51:00 Initialized 1 executors.
+2017/09/12 11:51:00 Test Excution will start at 11 51
+2017/09/12 11:51:24 ERPT Startup
+2017/09/12 11:51:24 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 11:51:24 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 11:51:24 Initializing Executors
+2017/09/12 11:51:24 Initialized 1 executors.
+2017/09/12 11:51:24 Test Excution will start at 11 52
+2017/09/12 11:51:59 Running testspec1.properties
+2017/09/12 11:52:08 report name :ERBS, Connected Users (Day)
+2017/09/12 11:52:15 prompt name First Date:
+2017/09/12 11:52:15 prompt value [2017-09-10]
+2017/09/12 11:52:15 prompt name Last Date:
+2017/09/12 11:52:15 prompt value [2017-09-12]
+2017/09/12 11:52:15 prompt name Select ERBS Name:
+2017/09/12 11:52:15 prompt value [ERBS1024, ERBS549, ERBS1033, ERBS1673, ERBS1012, ERBSG250_MSRBS-V2-LTE, ERBS819, ERBS2079, ERBS728, ERBS2213]
+2017/09/12 11:52:15 report name :ERBS, Overview (ERBS Raw Data)
+2017/09/12 11:52:15 Test execution started for "ERBS, Connected Users (Day)" using test spec testspec1.properties
+2017/09/12 11:52:39 prompt name Select raw data time resolution:
+2017/09/12 11:52:39 prompt value [Raw data]
+2017/09/12 11:52:39 prompt name Enter value(s) for ERBS Name
+2017/09/12 11:52:39 prompt value [ERBS773, ERBS369, ERBS1089, ERBSG2318_MSRBS-V2-LTE, ERBS1132, ERBS19, ERBS368, ERBS1006, ERBS1674, ERBS1403]
+2017/09/12 11:52:39 prompt name First Date:
+2017/09/12 11:52:39 prompt value [2017-09-10]
+2017/09/12 11:52:39 prompt name Last Date:
+2017/09/12 11:52:39 prompt value [2017-09-12]
+2017/09/12 11:52:39 report name :ERBS, Overview (Network Raw Data)
+2017/09/12 11:52:57 prompt name Select raw data time resolution:
+2017/09/12 11:52:57 prompt value [Raw data]
+2017/09/12 11:52:57 prompt name First Date:
+2017/09/12 11:52:58 prompt value [2017-09-10]
+2017/09/12 11:52:58 prompt name Last Date:
+2017/09/12 11:52:58 prompt value [2017-09-12]
+2017/09/12 11:52:58 report name :ERBS, Connected Users (Raw Data)
+2017/09/12 11:53:05 prompt name Select raw data time resolution:
+2017/09/12 11:53:05 prompt value [Raw data]
+2017/09/12 11:53:05 prompt name First Date:
+2017/09/12 11:53:05 prompt value [2017-09-10]
+2017/09/12 11:53:05 prompt name Last Date:
+2017/09/12 11:53:05 prompt value [2017-09-12]
+2017/09/12 11:53:05 prompt name Select ERBS Name:
+2017/09/12 11:53:05 prompt value [ERBS1673, ERBS2032, ERBS1031, ERBS1043, ERBS1853, ERBS1021, ERBS1223, ERBSG2545_MSRBS-V2-LTE, ERBS1989, ERBS548]
+2017/09/12 11:53:05 report name :ERBS, Overview (ERBS Day)
+2017/09/12 11:53:31 prompt name Enter value(s) for ERBS Name
+2017/09/12 11:53:31 prompt value [ERBS1899, ERBS323, ERBS458, ERBS1809, ERBS1021, ERBS1674, ERBS1538, ERBS1008, ERBS1037, ERBS1042]
+2017/09/12 11:53:31 prompt name First Date:
+2017/09/12 11:53:31 prompt value [2017-09-10]
+2017/09/12 11:53:31 prompt name Last Date:
+2017/09/12 11:53:31 prompt value [2017-09-12]
+2017/09/12 11:53:31 report name :ERBS, Overview (EUtranCell Raw Data)
+2017/09/12 11:53:32 testspec1.properties,ERBS, Connected Users (Day),9,54, 307200
+2017/09/12 11:53:59 prompt name Select raw data time resolution:
+2017/09/12 11:53:59 prompt value [Raw data]
+2017/09/12 11:53:59 prompt name Enter values for EUtranCell Id:
+2017/09/12 11:53:59 prompt value [ERBS1088-1, ERBS174-4, ERBS547-4, ERBS536-2, ERBS1448-1, ERBSG2362_MSRBS-V2-LTE-4, ERBS1774-3, ERBS761-3, ERBS1503-3, ERBS1008-2]
+2017/09/12 11:53:59 prompt name First Date:
+2017/09/12 11:53:59 prompt value [2017-09-10]
+2017/09/12 11:53:59 prompt name Last Date:
+2017/09/12 11:53:59 prompt value [2017-09-12]
+2017/09/12 11:53:59 report name :ERBS, Connected Users (Busy Hour)
+2017/09/12 11:54:05 prompt name First Date:
+2017/09/12 11:54:05 prompt value [2017-09-10]
+2017/09/12 11:54:05 prompt name Last Date:
+2017/09/12 11:54:05 prompt value [2017-09-12]
+2017/09/12 11:54:05 prompt name Select ERBS Name:
+2017/09/12 11:54:05 prompt value [ERBS908, ERBS1028, ERBS413, ERBS102, ERBS1004, ERBS728, ERBS1269, ERBS1028, ERBS1719, ERBS1853]
+2017/09/12 11:54:05 report name :ERBS, Overview (Description)
+2017/09/12 11:54:12 report name :ERBS, Overview (EUtranCell Day)
+2017/09/12 11:54:39 prompt name Enter values for EUtranCell Id:
+2017/09/12 11:54:39 prompt value [ERBSG2226_MSRBS-V2-LTE-4, ERBS333-2, ERBS243-2, ERBS266-3, ERBS862-4, ERBS907-4, ERBS1233-3, ERBS1447-4, ERBS683-1, ERBSG2159_MSRBS-V2-LTE-1]
+2017/09/12 11:54:39 prompt name First Date:
+2017/09/12 11:54:39 prompt value [2017-09-10]
+2017/09/12 11:54:39 prompt name Last Date:
+2017/09/12 11:54:39 prompt value [2017-09-12]
+2017/09/12 11:54:39 report name :ERBS, Overview (Network Day)
+2017/09/12 11:55:02 prompt name First Date:
+2017/09/12 11:55:02 prompt value [2017-09-10]
+2017/09/12 11:55:02 prompt name Last Date:
+2017/09/12 11:55:02 prompt value [2017-09-12]
+2017/09/12 12:06:22 ERPT Startup
+2017/09/12 12:06:22 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 12:06:22 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 12:06:22 Initializing Executors
+2017/09/12 12:06:22 Initialized 1 executors.
+2017/09/12 12:06:22 Test Excution will start at 12 08
+2017/09/12 12:06:54 ERPT Startup
+2017/09/12 12:06:54 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 12:06:54 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 12:06:54 Initializing Executors
+2017/09/12 12:06:54 Initialized 1 executors.
+2017/09/12 12:06:54 Test Excution will start at 12 08
+2017/09/12 12:07:04 ERPT Startup
+2017/09/12 12:07:04 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 12:07:04 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 12:07:04 Initializing Executors
+2017/09/12 12:07:04 Initialized 1 executors.
+2017/09/12 12:07:04 Test Excution will start at 12 08
+2017/09/12 12:07:59 Running testspec1.properties
+2017/09/12 12:08:08 report name :ERBS, Overview (ERBS Raw Data)
+2017/09/12 12:08:33 prompt name Select raw data time resolution:
+2017/09/12 12:08:33 prompt value [Raw data]
+2017/09/12 12:08:33 prompt name Enter value(s) for ERBS Name
+2017/09/12 12:08:33 prompt value [ERBS1719, ERBS1853, ERBS1007, ERBS729, ERBS1037, ERBS2393, ERBS1036, ERBS1014, ERBS1002, ERBS2078]
+2017/09/12 12:08:33 prompt name First Date:
+2017/09/12 12:08:33 prompt value [2017-09-10]
+2017/09/12 12:08:33 prompt name Last Date:
+2017/09/12 12:08:33 prompt value [2017-09-12]
+2017/09/12 12:08:33 report name :ERBS, Overview (Network Raw Data)
+2017/09/12 12:08:33 Test execution started for "ERBS, Overview (ERBS Raw Data)" using test spec testspec1.properties
+2017/09/12 12:08:51 prompt name Select raw data time resolution:
+2017/09/12 12:08:51 prompt value [Raw data]
+2017/09/12 12:08:51 prompt name First Date:
+2017/09/12 12:08:51 prompt value [2017-09-10]
+2017/09/12 12:08:51 prompt name Last Date:
+2017/09/12 12:08:51 prompt value [2017-09-12]
+2017/09/12 12:08:51 report name :ERBS, Overview (ERBS Day)
+2017/09/12 12:09:15 prompt name Enter value(s) for ERBS Name
+2017/09/12 12:09:15 prompt value [ERBS1022, ERBS412, ERBS1000, ERBSG2136_MSRBS-V2-LTE, ERBS1358, ERBS412, ERBS2393, ERBS1088, ERBS503, ERBSG250_MSRBS-V2-LTE]
+2017/09/12 12:09:15 prompt name First Date:
+2017/09/12 12:09:15 prompt value [2017-09-10]
+2017/09/12 12:09:15 prompt name Last Date:
+2017/09/12 12:09:15 prompt value [2017-09-12]
+2017/09/12 12:09:15 report name :ERBS, Overview (EUtranCell Raw Data)
+2017/09/12 12:09:44 prompt name Select raw data time resolution:
+2017/09/12 12:09:44 prompt value [Raw data]
+2017/09/12 12:09:44 prompt name Enter values for EUtranCell Id:
+2017/09/12 12:09:44 prompt value [ERBS987-3, ERBS2291-2, ERBS10-2, ERBS2223-2, ERBS1300-2, ERBS1459-3, ERBS412-1, ERBS1323-2, ERBS1899-1, ERBS987-3]
+2017/09/12 12:09:44 prompt name First Date:
+2017/09/12 12:09:44 prompt value [2017-09-10]
+2017/09/12 12:09:44 prompt name Last Date:
+2017/09/12 12:09:44 prompt value [2017-09-12]
+2017/09/12 12:09:44 report name :ERBS, Overview (Description)
+2017/09/12 12:09:52 report name :ERBS, Overview (EUtranCell Day)
+2017/09/12 12:10:19 prompt name Enter values for EUtranCell Id:
+2017/09/12 12:10:19 prompt value [ERBS356-3, ERBS851-2, ERBS1300-2, ERBS458-1, ERBS1120-2, ERBS93-4, ERBS1898-4, ERBS2156-2, ERBS120-1, ERBS1493-1]
+2017/09/12 12:10:19 prompt name First Date:
+2017/09/12 12:10:19 prompt value [2017-09-10]
+2017/09/12 12:10:19 prompt name Last Date:
+2017/09/12 12:10:19 prompt value [2017-09-12]
+2017/09/12 12:10:19 report name :ERBS, Overview (Network Day)
+2017/09/12 12:10:43 prompt name First Date:
+2017/09/12 12:10:43 prompt value [2017-09-10]
+2017/09/12 12:10:43 prompt name Last Date:
+2017/09/12 12:10:43 prompt value [2017-09-12]
+2017/09/12 12:15:18 testspec1.properties,ERBS, Overview (ERBS Raw Data),21,25940, 2313583622
+2017/09/12 12:25:22 ERPT Startup
+2017/09/12 12:25:22 Loading configuration from C:\Users\uday\Documents\EPT\EPT\EPT\configuration\config.properties
+2017/09/12 12:25:22 Loading test specs C:/Users/uday/Documents/EPT/EPT/EPT/configuration/testspecs
+2017/09/12 12:25:22 Initializing Executors
+2017/09/12 12:25:22 Initialized 1 executors.
+2017/09/12 12:25:22 Test Excution will start at 12 26
+2017/09/12 12:25:59 Running testspec1.properties
+2017/09/12 12:26:08 report name :ERBS, Overview (ERBS Raw Data)
+2017/09/12 12:26:34 prompt name Select raw data time resolution:
+2017/09/12 12:26:34 prompt value [Raw data]
+2017/09/12 12:26:34 prompt name Enter value(s) for ERBS Name
+2017/09/12 12:26:34 prompt value [ERBS728, ERBS773, ERBS1032, ERBS1989, ERBSG2272_MSRBS-V2-LTE, ERBS1022, ERBS1008, ERBS103, ERBS1673, ERBS908]
+2017/09/12 12:26:34 prompt name First Date:
+2017/09/12 12:26:34 prompt value [2017-09-10]
+2017/09/12 12:26:34 prompt name Last Date:
+2017/09/12 12:26:34 prompt value [2017-09-12]
+2017/09/12 12:26:34 report name :ERBS, Overview (Network Raw Data)
+2017/09/12 12:26:34 Test execution started for "ERBS, Overview (ERBS Raw Data)" using test spec testspec1.properties
+2017/09/12 12:26:52 prompt name Select raw data time resolution:
+2017/09/12 12:26:52 prompt value [Raw data]
+2017/09/12 12:26:52 prompt name First Date:
+2017/09/12 12:26:52 prompt value [2017-09-10]
+2017/09/12 12:26:52 prompt name Last Date:
+2017/09/12 12:26:52 prompt value [2017-09-12]
+2017/09/12 12:26:52 report name :ERBS, Overview (ERBS Day)
+2017/09/12 12:26:52 Test execution started for "ERBS, Overview (Network Raw Data)" using test spec testspec1.properties
+2017/09/12 12:27:17 prompt name Enter value(s) for ERBS Name
+2017/09/12 12:27:17 prompt value [ERBS369, ERBS1178, ERBS1403, ERBS818, ERBS1449, ERBSG299_MSRBS-V2-LTE, ERBS638, ERBS1008, ERBS593, ERBS1493]
+2017/09/12 12:27:17 prompt name First Date:
+2017/09/12 12:27:17 prompt value [2017-09-10]
+2017/09/12 12:27:17 prompt name Last Date:
+2017/09/12 12:27:17 prompt value [2017-09-12]
+2017/09/12 12:27:17 report name :ERBS, Overview (EUtranCell Raw Data)
+2017/09/12 12:27:17 Test execution started for "ERBS, Overview (ERBS Day)" using test spec testspec1.properties
+2017/09/12 12:27:22 testspec1.properties,ERBS, Overview (ERBS Raw Data),37,24788, 2316720422
+2017/09/12 12:27:45 prompt name Select raw data time resolution:
+2017/09/12 12:27:45 prompt value [Raw data]
+2017/09/12 12:27:45 prompt name Enter values for EUtranCell Id:
+2017/09/12 12:27:45 prompt value [ERBS1628-1, ERBS1053-2, ERBS897-2, ERBSG2567_MSRBS-V2-LTE-4, ERBSG2329_MSRBS-V2-LTE-3, 4, ERBS593-1, ERBSG2521_MSRBS-V2-LTE-4, ERBS1109-4, ERBSG2329_MSRBS-V2-LTE-2]
+2017/09/12 12:27:45 prompt name First Date:
+2017/09/12 12:27:45 prompt value [2017-09-10]
+2017/09/12 12:27:45 prompt name Last Date:
+2017/09/12 12:27:45 prompt value [2017-09-12]
+2017/09/12 12:27:45 Test execution started for "ERBS, Overview (EUtranCell Raw Data)" using test spec testspec1.properties
+2017/09/12 12:27:45 report name :ERBS, Overview (Description)
+2017/09/12 12:27:53 report name :ERBS, Overview (EUtranCell Day)
+2017/09/12 12:27:53 Test execution started for "ERBS, Overview (Description)" using test spec testspec1.properties
+2017/09/12 12:27:53 testspec1.properties,ERBS, Overview (ERBS Day),24,278, 57093600
+2017/09/12 12:27:54 testspec1.properties,ERBS, Overview (Description),0,1440, 0
+2017/09/12 12:28:20 prompt name Enter values for EUtranCell Id:
+2017/09/12 12:28:20 prompt value [ERBS570-1, ERBSG2340_MSRBS-V2-LTE-1, ERBSG2340_MSRBS-V2-LTE-1, ERBSG273_MSRBS-V2-LTE-4, ERBS671-3, ERBS1942-4, ERBSG2227_MSRBS-V2-LTE-1, ERBS1672-4, ERBS1300-3, ERBS1639-2]
+2017/09/12 12:28:20 prompt name First Date:
+2017/09/12 12:28:20 prompt value [2017-09-10]
+2017/09/12 12:28:20 prompt name Last Date:
+2017/09/12 12:28:20 prompt value [2017-09-12]
+2017/09/12 12:28:20 report name :ERBS, Overview (Network Day)
+2017/09/12 12:28:46 prompt name First Date:
+2017/09/12 12:28:46 prompt value [2017-09-10]
+2017/09/12 12:28:46 prompt name Last Date:
+2017/09/12 12:28:46 prompt value [2017-09-12]
+2017/09/12 12:28:46 Test execution started for "ERBS, Overview (Network Day)" using test spec testspec1.properties
+2017/09/12 12:28:47 testspec1.properties,ERBS, Overview (EUtranCell Day),14,333, 71357565
+2017/09/12 12:29:41 testspec1.properties,ERBS, Overview (Network Day),31,3073, 75047655
+2017/09/12 12:34:01 testspec1.properties,ERBS, Overview (EUtranCell Raw Data),128,385504, 2923970946
+2017/09/12 12:34:58 testspec1.properties,ERBS, Overview (Network Raw Data),305,9624, 361663626

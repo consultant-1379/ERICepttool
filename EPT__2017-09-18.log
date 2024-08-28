@@ -1,0 +1,464 @@
+2017/09/18 11:47:05 ERPT Startup
+2017/09/18 11:47:05 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/09/18 11:47:05 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsMSC
+2017/09/18 11:47:05 Initializing Executors
+2017/09/18 11:47:05 Initialized 4 executors.
+2017/09/18 11:47:05 Test Excution will start at 11 48
+2017/09/18 11:47:59 Running testspec1.properties
+2017/09/18 11:48:10 report name :MSC, Capacity Licensing (Busy Hour)
+2017/09/18 11:48:20 prompt name Enter value(s) for MSC Name:
+2017/09/18 11:48:20 prompt value [MAA10, MIE02, MIE02, MAA03, MAA08, MIE08, MIE03, MIE01, MIE04, MAA02]
+2017/09/18 11:48:20 prompt name UtilizationThreshold (%):
+2017/09/18 11:48:20 prompt value [0]
+2017/09/18 11:48:20 prompt name First Date:
+2017/09/18 11:48:20 prompt value [2017-09-18]
+2017/09/18 11:48:20 prompt name First Date:
+2017/09/18 11:48:20 prompt value [2017-07-10]
+2017/09/18 11:48:20 prompt name Last Date:
+2017/09/18 11:48:20 prompt value [2017-09-18]
+2017/09/18 11:48:20 prompt name Last Date:
+2017/09/18 11:48:20 prompt value [2017-09-18]
+2017/09/18 11:48:20 Test execution started for "MSC, Capacity Licensing (Busy Hour)" using test spec testspec1.properties
+2017/09/18 11:48:20 report name :MSC-S BC, Load Statistics (Raw Data)
+2017/09/18 11:48:27 prompt name Blade Loadability Threshold (%):
+2017/09/18 11:48:27 prompt value [0]
+2017/09/18 11:48:27 prompt name Date:
+2017/09/18 11:48:27 prompt value [2017-09-18]
+2017/09/18 11:48:27 prompt name SPX Loadability Threshold (%):
+2017/09/18 11:48:27 prompt value [0]
+2017/09/18 11:48:27 prompt name Enter Source Type:
+2017/09/18 11:48:27 prompt value [ISBladeHybrid]
+2017/09/18 11:48:27 prompt name Enter value(s) for MSC Name:
+2017/09/18 11:48:27 prompt value [MIE10, MIE04, MIE08, MIE04, MIE06, MIE03, MIE08, MAA09, MAA03, MIE09]
+2017/09/18 11:48:27 report name :MSC-S BC, Load Statistics (Description)
+2017/09/18 11:48:27 Test execution started for "MSC-S BC, Load Statistics (Raw Data)" using test spec testspec1.properties
+2017/09/18 11:48:28 testspec1.properties,MSC, Capacity Licensing (Busy Hour),7,838, 935999
+2017/09/18 11:48:35 report name :vMSC, Management Overview (Busy Hour)
+2017/09/18 11:48:35 Test execution started for "MSC-S BC, Load Statistics (Description)" using test spec testspec1.properties
+2017/09/18 11:48:36 testspec1.properties,MSC-S BC, Load Statistics (Description),0,282, 0
+2017/09/18 11:48:36 testspec1.properties,MSC-S BC, Load Statistics (Raw Data),6,0, 9970020
+2017/09/18 11:48:43 prompt name Enter values for MSC Name :
+2017/09/18 11:48:43 prompt value [MIE09, MAA09, MAA05, MIE09, MIE09, MIE05, MIE04, MAA03, MAA08, MAA02]
+2017/09/18 11:48:43 prompt name First Date:
+2017/09/18 11:48:43 prompt value [2017-09-18]
+2017/09/18 11:48:43 prompt name First Date:
+2017/09/18 11:48:43 prompt value [2017-07-10]
+2017/09/18 11:48:43 prompt name Last Date:
+2017/09/18 11:48:43 prompt value [2017-09-18]
+2017/09/18 11:48:43 prompt name Last Date:
+2017/09/18 11:48:43 prompt value [2017-09-18]
+2017/09/18 11:48:43 Test execution started for "vMSC, Management Overview (Busy Hour)" using test spec testspec1.properties
+2017/09/18 11:48:50 report name :MSC, Management Overview (Day)
+2017/09/18 11:48:50 Test execution started for "MSC, Management Overview (Description)" using test spec testspec1.properties
+2017/09/18 11:48:51 testspec1.properties,MSC, Management Overview (Description),0,282, 0
+2017/09/18 11:48:51 testspec1.properties,vMSC, Management Overview (Busy Hour),4,0, 0
+2017/09/18 11:49:34 prompt name Enter value(s) for MSC Name:
+2017/09/18 11:49:34 prompt value [MAA07, MAA07, MIE02, MIE04, MAA03, MIE05, MAA05, MAA08, MAA03, MAA10]
+2017/09/18 11:49:34 prompt name First Date:
+2017/09/18 11:49:34 prompt value [2017-09-18]
+2017/09/18 11:49:34 prompt name First Date:
+2017/09/18 11:49:34 prompt value [2017-07-10]
+2017/09/18 11:49:34 prompt name Last Date:
+2017/09/18 11:49:34 prompt value [2017-09-18]
+2017/09/18 11:49:34 prompt name Last Date:
+2017/09/18 11:49:34 prompt value [2017-09-18]
+2017/09/18 11:49:34 report name :vMSC, Management Overview (Description)
+2017/09/18 11:49:34 Test execution started for "MSC, Management Overview (Day)" using test spec testspec1.properties
+2017/09/18 11:49:41 report name :MSC-S BC, Load Statistics (Peak ROP)
+2017/09/18 11:49:41 Test execution started for "vMSC, Management Overview (Description)" using test spec testspec1.properties
+2017/09/18 11:49:41 testspec1.properties,vMSC, Management Overview (Description),0,282, 0
+2017/09/18 11:49:43 prompt name Blade Loadability Threshold (%):
+2017/09/18 11:49:43 prompt value [0]
+2017/09/18 11:49:43 prompt name SPX Loadability Threshold (%):
+2017/09/18 11:49:43 prompt value [0]
+2017/09/18 11:49:43 prompt name Enter Source Type:
+2017/09/18 11:49:43 prompt value [ISBladeHybrid]
+2017/09/18 11:49:43 prompt name Enter value(s) for MSC Name:
+2017/09/18 11:49:43 prompt value [MAA02, MIE10, MIE07, MIE10, MAA01, MAA10, MAA07, MIE07, MAA03, MAA03]
+2017/09/18 11:49:43 prompt name First Date:
+2017/09/18 11:49:43 prompt value [2017-09-18]
+2017/09/18 11:49:43 prompt name First Date:
+2017/09/18 11:49:43 prompt value [2017-07-10]
+2017/09/18 11:49:43 prompt name Last Date:
+2017/09/18 11:49:43 prompt value [2017-09-18]
+2017/09/18 11:49:43 prompt name Last Date:
+2017/09/18 11:49:43 prompt value [2017-09-18]
+2017/09/18 11:49:43 report name :vMSC, Management Overview (Day)
+2017/09/18 11:49:43 Test execution started for "MSC-S BC, Load Statistics (Peak ROP)" using test spec testspec1.properties
+2017/09/18 11:49:47 testspec1.properties,MSC-S BC, Load Statistics (Peak ROP),3,0, 112300
+2017/09/18 11:49:52 prompt name Enter values for MSC Name :
+2017/09/18 11:49:52 prompt value [MAA01, MAA07, MIE02, MAA10, MIE07, MIE09, MIE01, MIE08, MIE07, MAA03]
+2017/09/18 11:49:52 prompt name First Date:
+2017/09/18 11:49:52 prompt value [2017-09-18]
+2017/09/18 11:49:52 prompt name First Date:
+2017/09/18 11:49:52 prompt value [2017-07-10]
+2017/09/18 11:49:52 prompt name Last Date:
+2017/09/18 11:49:52 prompt value [2017-09-18]
+2017/09/18 11:49:52 prompt name Last Date:
+2017/09/18 11:49:52 prompt value [2017-09-18]
+2017/09/18 11:49:52 report name :vMSC, Management Overview (Raw Data)
+2017/09/18 11:49:52 Test execution started for "vMSC, Management Overview (Day)" using test spec testspec1.properties
+2017/09/18 11:49:54 testspec1.properties,vMSC, Management Overview (Day),2,0, 0
+2017/09/18 11:49:56 prompt name Select raw data time resolution:
+2017/09/18 11:49:56 prompt value [Raw data]
+2017/09/18 11:49:56 prompt name Enter values for MSC Name :
+2017/09/18 11:49:56 prompt value [MAA02, MIE08, MIE05, MIE10, MIE07, MIE03, MAA05, MAA04, MIE06, MAA07]
+2017/09/18 11:49:56 prompt name First Date:
+2017/09/18 11:49:56 prompt value [2017-09-18]
+2017/09/18 11:49:56 prompt name First Date:
+2017/09/18 11:49:56 prompt value [2017-07-10]
+2017/09/18 11:49:56 prompt name Last Date:
+2017/09/18 11:49:56 prompt value [2017-09-18]
+2017/09/18 11:49:56 prompt name Last Date:
+2017/09/18 11:49:56 prompt value [2017-09-18]
+2017/09/18 11:49:56 report name :MSC, Management Overview (Raw Data)
+2017/09/18 11:49:56 Test execution started for "vMSC, Management Overview (Raw Data)" using test spec testspec1.properties
+2017/09/18 11:50:01 testspec1.properties,vMSC, Management Overview (Raw Data),3,0, 0
+2017/09/18 11:50:39 prompt name Select raw data time resolution:
+2017/09/18 11:50:39 prompt value [Raw data]
+2017/09/18 11:50:39 prompt name Enter value(s) for MSC Name:
+2017/09/18 11:50:39 prompt value [MAA06, MIE09, MAA10, MAA02, MIE01, MAA01, MIE01, MAA10, MIE04, MIE03]
+2017/09/18 11:50:39 prompt name First Date:
+2017/09/18 11:50:39 prompt value [2017-09-18]
+2017/09/18 11:50:39 prompt name First Date:
+2017/09/18 11:50:39 prompt value [2017-07-10]
+2017/09/18 11:50:39 prompt name Last Date:
+2017/09/18 11:50:39 prompt value [2017-09-18]
+2017/09/18 11:50:39 prompt name Last Date:
+2017/09/18 11:50:39 prompt value [2017-09-18]
+2017/09/18 11:50:39 report name :MSC, Signaling Throughput (Busy Hour)
+2017/09/18 11:50:39 Test execution started for "MSC, Management Overview (Raw Data)" using test spec testspec1.properties
+2017/09/18 11:50:47 prompt name Enter value(s) for MSC Name:
+2017/09/18 11:50:47 prompt value [MIE04, MIE04, MAA03, MIE03, MAA02, MAA01, MAA06, MIE05, MIE03, MIE02]
+2017/09/18 11:50:47 prompt name First Date:
+2017/09/18 11:50:47 prompt value [2017-09-18]
+2017/09/18 11:50:47 prompt name First Date:
+2017/09/18 11:50:47 prompt value [2017-07-10]
+2017/09/18 11:50:47 prompt name Last Date:
+2017/09/18 11:50:47 prompt value [2017-09-18]
+2017/09/18 11:50:47 prompt name Last Date:
+2017/09/18 11:50:47 prompt value [2017-09-18]
+2017/09/18 11:50:47 report name :MSC, Management Overview (Busy Hour)
+2017/09/18 11:50:47 Test execution started for "MSC, Signaling Throughput (Busy Hour)" using test spec testspec1.properties
+2017/09/18 11:50:51 testspec1.properties,MSC, Management Overview (Day),62,63275, 58016630296
+2017/09/18 11:50:51 testspec1.properties,MSC, Signaling Throughput (Busy Hour),3,545, 4062062
+2017/09/18 11:51:58 prompt name Enter value(s) for MSC Name:
+2017/09/18 11:51:58 prompt value [MIE01, MAA05, MAA05, MIE06, MAA07, MAA04, MAA03, MIE04, MIE06, MIE03]
+2017/09/18 11:51:58 prompt name First Date:
+2017/09/18 11:51:58 prompt value [2017-09-18]
+2017/09/18 11:51:58 prompt name First Date:
+2017/09/18 11:51:58 prompt value [2017-07-10]
+2017/09/18 11:51:58 prompt name Last Date:
+2017/09/18 11:51:58 prompt value [2017-09-18]
+2017/09/18 11:51:58 prompt name Last Date:
+2017/09/18 11:51:58 prompt value [2017-09-18]
+2017/09/18 11:51:58 report name :MSC, Signaling Throughput (Description)
+2017/09/18 11:51:58 Test execution started for "MSC, Management Overview (Busy Hour)" using test spec testspec1.properties
+2017/09/18 11:52:06 report name :MSC Active Users Pricing Model(Description)
+2017/09/18 11:52:06 Test execution started for "MSC, Signaling Throughput (Description)" using test spec testspec1.properties
+2017/09/18 11:52:08 testspec1.properties,MSC, Signaling Throughput (Description),1,282, 0
+2017/09/18 11:52:14 report name :MSC, Capacity Licensing (Description)
+2017/09/18 11:52:14 Test execution started for "MSC Active Users Pricing Model(Description)" using test spec testspec1.properties
+2017/09/18 11:52:14 testspec1.properties,MSC Active Users Pricing Model(Description),0,282, 0
+2017/09/18 11:52:16 Test execution started for "MSC, Capacity Licensing (Description)" using test spec testspec1.properties
+2017/09/18 11:52:16 testspec1.properties,MSC, Capacity Licensing (Description),0,282, 0
+2017/09/18 11:53:49 testspec1.properties,MSC, Management Overview (Busy Hour),74,292424, 8003680022
+2017/09/18 11:54:00 testspec1.properties,MSC, Management Overview (Raw Data),127,277055, 125733928135
+2017/09/18 12:38:35 error :Test execution error for "MSC, Capacity Licensing (Busy Hour)" using test spec testspec1.properties
+2017/09/18 12:38:35 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:38:35 Test execution completed for "MSC, Capacity Licensing (Busy Hour)" using test spec testspec1.properties
+2017/09/18 12:38:36 error :Test execution error for "MSC-S BC, Load Statistics (Description)" using test spec testspec1.properties
+2017/09/18 12:38:36 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:38:36 Test execution completed for "MSC-S BC, Load Statistics (Description)" using test spec testspec1.properties
+2017/09/18 12:38:41 error :Test execution error for "MSC-S BC, Load Statistics (Raw Data)" using test spec testspec1.properties
+2017/09/18 12:38:41 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:38:41 Test execution completed for "MSC-S BC, Load Statistics (Raw Data)" using test spec testspec1.properties
+2017/09/18 12:38:56 error :Test execution error for "MSC, Management Overview (Description)" using test spec testspec1.properties
+2017/09/18 12:38:56 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:38:56 Test execution completed for "MSC, Management Overview (Description)" using test spec testspec1.properties
+2017/09/18 12:38:57 error :Test execution error for "vMSC, Management Overview (Busy Hour)" using test spec testspec1.properties
+2017/09/18 12:38:57 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:38:57 Test execution completed for "vMSC, Management Overview (Busy Hour)" using test spec testspec1.properties
+2017/09/18 12:39:46 error :Test execution error for "vMSC, Management Overview (Description)" using test spec testspec1.properties
+2017/09/18 12:39:46 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:39:46 Test execution completed for "vMSC, Management Overview (Description)" using test spec testspec1.properties
+2017/09/18 12:39:52 error :Test execution error for "MSC-S BC, Load Statistics (Peak ROP)" using test spec testspec1.properties
+2017/09/18 12:39:52 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:39:52 Test execution completed for "MSC-S BC, Load Statistics (Peak ROP)" using test spec testspec1.properties
+2017/09/18 12:40:00 error :Test execution error for "vMSC, Management Overview (Day)" using test spec testspec1.properties
+2017/09/18 12:40:00 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:40:00 Test execution completed for "vMSC, Management Overview (Day)" using test spec testspec1.properties
+2017/09/18 12:40:07 error :Test execution error for "vMSC, Management Overview (Raw Data)" using test spec testspec1.properties
+2017/09/18 12:40:07 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:40:07 Test execution completed for "vMSC, Management Overview (Raw Data)" using test spec testspec1.properties
+2017/09/18 12:40:56 error :Test execution error for "MSC, Signaling Throughput (Busy Hour)" using test spec testspec1.properties
+2017/09/18 12:40:56 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:40:56 Test execution completed for "MSC, Signaling Throughput (Busy Hour)" using test spec testspec1.properties
+2017/09/18 12:41:07 error :Test execution error for "MSC, Management Overview (Day)" using test spec testspec1.properties
+2017/09/18 12:41:07 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:41:07 Test execution completed for "MSC, Management Overview (Day)" using test spec testspec1.properties
+2017/09/18 12:42:13 error :Test execution error for "MSC, Signaling Throughput (Description)" using test spec testspec1.properties
+2017/09/18 12:42:13 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:42:13 Test execution completed for "MSC, Signaling Throughput (Description)" using test spec testspec1.properties
+2017/09/18 12:42:19 error :Test execution error for "MSC Active Users Pricing Model(Description)" using test spec testspec1.properties
+2017/09/18 12:42:19 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:42:19 Test execution completed for "MSC Active Users Pricing Model(Description)" using test spec testspec1.properties
+2017/09/18 12:42:21 error :Test execution error for "MSC, Capacity Licensing (Description)" using test spec testspec1.properties
+2017/09/18 12:42:21 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:42:21 Test execution completed for "MSC, Capacity Licensing (Description)" using test spec testspec1.properties
+2017/09/18 12:44:28 error :Test execution error for "MSC, Management Overview (Busy Hour)" using test spec testspec1.properties
+2017/09/18 12:44:28 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:44:28 Test execution completed for "MSC, Management Overview (Busy Hour)" using test spec testspec1.properties
+2017/09/18 12:45:10 error :Test execution error for "MSC, Management Overview (Raw Data)" using test spec testspec1.properties
+2017/09/18 12:45:10 error <error>
+    <error_code>FWB 00003</error_code>
+    <message>Not a valid logon token. (FWB 00003)</message>
+</error>
+
+2017/09/18 12:45:10 Test execution completed for "MSC, Management Overview (Raw Data)" using test spec testspec1.properties
+2017/09/18 13:14:25 ERPT Startup
+2017/09/18 13:14:25 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/09/18 13:14:25 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsMSC
+2017/09/18 13:14:25 Initializing Executors
+2017/09/18 13:14:25 Initialized 4 executors.
+2017/09/18 13:14:25 Test Excution will start at 11 48
+2017/09/18 13:15:04 ERPT Startup
+2017/09/18 13:15:04 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/09/18 13:15:04 Loading test specs C:/Users/uday/Desktop/ERPT/testspecs
+2017/09/18 13:15:04 Initializing Executors
+2017/09/18 13:15:04 Initialized 4 executors.
+2017/09/18 13:15:04 Test Excution will start at 13 15
+2017/09/18 13:16:33 ERPT Startup
+2017/09/18 13:16:33 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/09/18 13:16:33 Loading test specs C:/Users/uday/Desktop/ERPT/testspecs
+2017/09/18 13:16:33 Initializing Executors
+2017/09/18 13:16:33 Initialized 4 executors.
+2017/09/18 13:16:33 Test Excution will start at 13 17
+2017/09/18 13:16:59 Running testspecIMSSBG.properties
+2017/09/18 13:17:08 report name :SBG, CBA (Description)
+2017/09/18 13:17:15 Test execution started for "SBG, CBA (Description)" using test spec testspecIMSSBG.properties
+2017/09/18 13:17:15 report name :SBG, Overview (Description)
+2017/09/18 13:17:15 error :Test execution error for "SBG, CBA (Description)" using test spec testspecIMSSBG.properties
+2017/09/18 13:17:15 error <error>
+    <error_code>RWS 00052</error_code>
+    <message>Cannot process the request; the request could not be processesd by server due to malformed syntax (RWS 00052)</message>
+</error>
+
+2017/09/18 13:17:15 Test execution completed for "SBG, CBA (Description)" using test spec testspecIMSSBG.properties
+2017/09/18 13:17:18 Test execution started for "SBG, Overview (Description)" using test spec testspecIMSSBG.properties
+2017/09/18 13:17:21 testspecIMSSBG.properties,SBG, Overview (Description),1,868, 0
+2017/09/18 13:17:26 prompt name Select raw data time resolution:
+2017/09/18 13:17:26 prompt value [Raw data]
+2017/09/18 13:17:26 prompt name Enter value(s) for NE Name:
+2017/09/18 13:17:26 prompt value [sbg_01, sbg_02, ISSBG02, sbg_03, sbg_05, sbg_05, sbg_04, ISSBG01, sbg_04, ISMGW02]
+2017/09/18 13:17:26 prompt name First Date:
+2017/09/18 13:17:26 prompt value [2017-08-10]
+2017/09/18 13:17:26 prompt name Last Date:
+2017/09/18 13:17:26 prompt value [2017-09-18]
+2017/09/18 13:17:26 report name :SBG, CBA (Day)
+2017/09/18 13:17:26 Test execution started for "SBG, Overview (Raw Data)" using test spec testspecIMSSBG.properties
+2017/09/18 13:17:34 prompt name First Date:
+2017/09/18 13:17:34 prompt value [2017-08-10]
+2017/09/18 13:17:34 prompt name Last Date:
+2017/09/18 13:17:34 prompt value [2017-09-18]
+2017/09/18 13:17:34 prompt name Enter values for NE Name:
+2017/09/18 13:17:34 prompt value [sbg_04, sbg_04, ISSBG02, sbg_01, ISMGW02, ISMGW02, sbg_05, ISMGW01, ISSBG01, sbg_02]
+2017/09/18 13:17:34 report name :SBG, CBA (Raw Data)
+2017/09/18 13:17:34 Test execution started for "SBG, CBA (Day)" using test spec testspecIMSSBG.properties
+2017/09/18 13:17:37 testspecIMSSBG.properties,SBG, CBA (Day),2,0, 0
+2017/09/18 13:17:41 prompt name Select raw data time resolution:
+2017/09/18 13:17:41 prompt value [Raw data]
+2017/09/18 13:17:41 prompt name First Date:
+2017/09/18 13:17:41 prompt value [2017-08-10]
+2017/09/18 13:17:41 prompt name Last Date:
+2017/09/18 13:17:41 prompt value [2017-09-18]
+2017/09/18 13:17:41 prompt name Enter values for NE Name:
+2017/09/18 13:17:41 prompt value [ISSBG02, ISSBG01, sbg_05, sbg_03, sbg_01, sbg_01, sbg_05, sbg_02, sbg_02, sbg_04]
+2017/09/18 13:17:41 report name :SBG, Overview (Day)
+2017/09/18 13:17:41 Test execution started for "SBG, CBA (Raw Data)" using test spec testspecIMSSBG.properties
+2017/09/18 13:17:45 testspecIMSSBG.properties,SBG, CBA (Raw Data),2,0, 0
+2017/09/18 13:17:48 prompt name Enter value(s) for NE Name:
+2017/09/18 13:17:48 prompt value [ISSBG02, ISSBG02, ISMGW01, sbg_03, sbg_02, sbg_02, sbg_03, sbg_02, sbg_04, sbg_02]
+2017/09/18 13:17:48 prompt name First Date:
+2017/09/18 13:17:48 prompt value [2017-08-10]
+2017/09/18 13:17:48 prompt name Last Date:
+2017/09/18 13:17:48 prompt value [2017-09-18]
+2017/09/18 13:17:48 Test execution started for "SBG, Overview (Day)" using test spec testspecIMSSBG.properties
+2017/09/18 13:18:12 testspecIMSSBG.properties,SBG, Overview (Day),15,3336, 91515
+2017/09/18 13:19:12 testspecIMSSBG.properties,SBG, Overview (Raw Data),28,471210, 3692879
+2017/09/18 14:47:10 ERPT Startup
+2017/09/18 14:47:10 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/09/18 14:47:10 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsSGSN
+2017/09/18 14:47:10 Initializing Executors
+2017/09/18 14:47:10 Initialized 4 executors.
+2017/09/18 14:47:10 Test Excution will start at 14 48
+2017/09/18 14:47:59 Running testspecSGSN.properties
+2017/09/18 14:48:08 report name :SGSN, Performance Management Overview (SGSN Day)
+2017/09/18 14:48:22 prompt name First Date:
+2017/09/18 14:48:22 prompt value [2017-09-10]
+2017/09/18 14:48:22 prompt name Last Date:
+2017/09/18 14:48:22 prompt value [2017-09-18]
+2017/09/18 14:48:22 Test execution started for "SGSN, Performance Management Overview (SGSN Day)" using test spec testspecSGSN.properties
+2017/09/18 14:48:31 error :Test execution error for "SGSN, Performance Management Overview (SGSN Day)" using test spec testspecSGSN.properties
+2017/09/18 14:48:31 error <error>
+    <error_code>WSR 00102</error_code>
+    <message>Illegal argument ("The following database error occurred: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified. For information about this error, please refer to SAP Knowledge Base Article 2054721 on the SAP Support Portal. (IES 10901)")</message>
+</error>
+
+2017/09/18 14:48:31 Test execution completed for "SGSN, Performance Management Overview (SGSN Day)" using test spec testspecSGSN.properties
+2017/09/18 14:48:34 prompt name Select raw data time resolution:
+2017/09/18 14:48:34 prompt value [Raw data]
+2017/09/18 14:48:34 prompt name First Date:
+2017/09/18 14:48:34 prompt value [2017-09-10]
+2017/09/18 14:48:34 prompt name Last Date:
+2017/09/18 14:48:34 prompt value [2017-09-18]
+2017/09/18 14:48:34 Test execution started for "SGSN, Performance Management Overview (Pool Raw Data)" using test spec testspecSGSN.properties
+2017/09/18 14:48:42 ERPT Startup
+2017/09/18 14:48:42 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/09/18 14:48:42 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsSGSN
+2017/09/18 14:48:42 Initializing Executors
+2017/09/18 14:48:42 Initialized 4 executors.
+2017/09/18 14:48:42 Test Excution will start at 14 49
+2017/09/18 14:48:59 Running testspecSGSN.properties
+2017/09/18 14:49:08 report name :SGSN, Performance Management Overview (SGSN Day)
+2017/09/18 14:49:23 prompt name Enter value(s) for SGSN Name:
+2017/09/18 14:49:23 Error: Test execution set up error for "SGSN, Performance Management Overview (SGSN Day)" using test spec testspecSGSN.properties
+2017/09/18 14:49:23 Error: bound must be greater than origin
+2017/09/18 14:49:23 report name :SGSN, Performance Management Overview (Pool Raw Data)
+2017/09/18 14:49:23 Test execution started for "SGSN, Performance Management Overview (SGSN Day)" using test spec testspecSGSN.properties
+2017/09/18 14:49:23 error :Test execution error for "SGSN, Performance Management Overview (SGSN Day)" using test spec testspecSGSN.properties
+2017/09/18 14:49:23 error <error>
+    <error_code>WSR 00100</error_code>
+    <message>Rule not respected ("Argument "parameter/answer/values/" must not be null.")</message>
+</error>
+
+2017/09/18 14:49:23 Test execution completed for "SGSN, Performance Management Overview (SGSN Day)" using test spec testspecSGSN.properties
+2017/09/18 14:49:36 prompt name Select raw data time resolution:
+2017/09/18 14:49:36 prompt value [Raw data]
+2017/09/18 14:49:36 prompt name First Date:
+2017/09/18 14:49:36 prompt value [2017-09-10]
+2017/09/18 14:49:36 prompt name Last Date:
+2017/09/18 14:49:36 prompt value [2017-09-18]
+2017/09/18 14:49:36 report name :SGSN, Overview (Description)
+2017/09/18 14:49:36 Test execution started for "SGSN, Performance Management Overview (Pool Raw Data)" using test spec testspecSGSN.properties
+2017/09/18 14:49:43 Test execution started for "SGSN, Overview (Description)" using test spec testspecSGSN.properties
+2017/09/18 14:49:43 error :Test execution error for "SGSN, Overview (Description)" using test spec testspecSGSN.properties
+2017/09/18 14:49:43 error <error>
+    <error_code>WSR 00102</error_code>
+    <message>Illegal argument ("The following database error occurred: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified. For information about this error, please refer to SAP Knowledge Base Article 2054721 on the SAP Support Portal. (IES 10901)")</message>
+</error>
+
+2017/09/18 14:49:43 Test execution completed for "SGSN, Overview (Description)" using test spec testspecSGSN.properties
+2017/09/18 14:49:47 error :Test execution error for "SGSN, Performance Management Overview (Pool Raw Data)" using test spec testspecSGSN.properties
+2017/09/18 14:49:47 error <error>
+    <error_code>WSR 00102</error_code>
+    <message>Illegal argument ("The following database error occurred: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified. For information about this error, please refer to SAP Knowledge Base Article 2054721 on the SAP Support Portal. (IES 10901)")</message>
+</error>
+
+2017/09/18 14:49:47 Test execution completed for "SGSN, Performance Management Overview (Pool Raw Data)" using test spec testspecSGSN.properties
+2017/09/18 14:50:11 prompt name First Date:
+2017/09/18 14:50:11 prompt value [2017-09-10]
+2017/09/18 14:50:11 prompt name Last Date:
+2017/09/18 14:50:11 prompt value [2017-09-18]
+2017/09/18 14:50:11 report name :SGSN, Performance Management Overview (Description)
+2017/09/18 14:50:11 Test execution started for "SGSN, Overview (Pool Day)" using test spec testspecSGSN.properties
+2017/09/18 14:50:18 report name :SGSN, Overview (SGSN Day)
+2017/09/18 14:50:18 Test execution started for "SGSN, Performance Management Overview (Description)" using test spec testspecSGSN.properties
+2017/09/18 14:50:18 error :Test execution error for "SGSN, Performance Management Overview (Description)" using test spec testspecSGSN.properties
+2017/09/18 14:50:18 error <error>
+    <error_code>WSR 00102</error_code>
+    <message>Illegal argument ("The following database error occurred: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified. For information about this error, please refer to SAP Knowledge Base Article 2054721 on the SAP Support Portal. (IES 10901)")</message>
+</error>
+
+2017/09/18 14:50:18 Test execution completed for "SGSN, Performance Management Overview (Description)" using test spec testspecSGSN.properties
+2017/09/18 14:50:42 error :Test execution error for "SGSN, Overview (Pool Day)" using test spec testspecSGSN.properties
+2017/09/18 14:50:42 error <error>
+    <error_code>WSR 00102</error_code>
+    <message>Illegal argument ("The following database error occurred: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified. For information about this error, please refer to SAP Knowledge Base Article 2054721 on the SAP Support Portal. (IES 10901)")</message>
+</error>
+
+2017/09/18 14:50:42 Test execution completed for "SGSN, Overview (Pool Day)" using test spec testspecSGSN.properties
+2017/09/18 14:50:43 prompt name Enter value(s) for SGSN Name:
+2017/09/18 14:50:43 Error: Test execution set up error for "SGSN, Overview (SGSN Day)" using test spec testspecSGSN.properties
+2017/09/18 14:50:43 Error: bound must be greater than origin
+2017/09/18 14:50:43 report name :SGSN, Overview (SGSN Raw Data)
+2017/09/18 14:50:43 Test execution started for "SGSN, Overview (SGSN Day)" using test spec testspecSGSN.properties
+2017/09/18 14:50:43 error :Test execution error for "SGSN, Overview (SGSN Day)" using test spec testspecSGSN.properties
+2017/09/18 14:50:43 error <error>
+    <error_code>WSR 00100</error_code>
+    <message>Rule not respected ("Argument "parameter/answer/values/" must not be null.")</message>
+</error>
+
+2017/09/18 14:50:43 Test execution completed for "SGSN, Overview (SGSN Day)" using test spec testspecSGSN.properties
+2017/09/18 14:51:09 prompt name Enter value(s) for SGSN Name:
+2017/09/18 14:51:09 Error: Test execution set up error for "SGSN, Overview (SGSN Raw Data)" using test spec testspecSGSN.properties
+2017/09/18 14:51:09 Error: bound must be greater than origin
+2017/09/18 14:51:09 report name :SGSN, Performance Management Overview (SGSN Raw Data)
+2017/09/18 14:51:09 Test execution started for "SGSN, Overview (SGSN Raw Data)" using test spec testspecSGSN.properties
+2017/09/18 14:51:09 error :Test execution error for "SGSN, Overview (SGSN Raw Data)" using test spec testspecSGSN.properties
+2017/09/18 14:51:09 error <error>
+    <error_code>WSR 00100</error_code>
+    <message>Rule not respected ("Argument "parameter/answer/values/" must not be null.")</message>
+</error>
+
+2017/09/18 14:51:09 Test execution completed for "SGSN, Overview (SGSN Raw Data)" using test spec testspecSGSN.properties

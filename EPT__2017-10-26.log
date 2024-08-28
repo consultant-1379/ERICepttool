@@ -1,0 +1,165 @@
+2017/10/26 13:12:02 ERPT Startup
+2017/10/26 13:12:02 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/10/26 13:12:02 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsERBS
+2017/10/26 13:12:02 Initializing Executors
+2017/10/26 13:12:02 Initialized 4 executors.
+2017/10/26 13:12:02 Test Excution will start at 01 12
+2017/10/26 13:12:41 ERPT Startup
+2017/10/26 13:12:41 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/10/26 13:12:41 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsERBS
+2017/10/26 13:12:41 Initializing Executors
+2017/10/26 13:12:41 Initialized 4 executors.
+2017/10/26 13:12:41 Test Excution will start at 13 13
+2017/10/26 13:12:59 Running testspec1ERBS.properties
+2017/10/26 13:13:05 report name :ERBS, Overview (ERBS Day)
+2017/10/26 13:13:23 prompt name Enter value(s) for ERBS Name
+2017/10/26 13:13:23 prompt value [ERBS1039, ERBS1000, ERBS100, ERBS1006, ERBS279, ERBS729, ERBS278, ERBS459, ERBS1005, ERBSG2272_MSRBS-V2-LTE]
+2017/10/26 13:13:23 prompt name First Date:
+2017/10/26 13:13:23 prompt value [2017-10-10]
+2017/10/26 13:13:23 prompt name Last Date:
+2017/10/26 13:13:23 prompt value [2017-10-26]
+2017/10/26 13:13:23 Test execution started for "ERBS, Overview (ERBS Day)" using test spec testspec1ERBS.properties
+2017/10/26 13:13:23 Test execution completed for "ERBS, Overview (ERBS Day)" using test spec testspec1ERBS.properties
+2017/10/26 13:15:11 ERPT Startup
+2017/10/26 13:15:11 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/10/26 13:15:11 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsERBS
+2017/10/26 13:15:11 Initializing Executors
+2017/10/26 13:15:11 Initialized 4 executors.
+2017/10/26 13:15:11 Test Excution will start at 13 16
+2017/10/26 13:15:59 Running testspec1ERBS.properties
+2017/10/26 13:16:04 report name :ERBS, Overview (ERBS Day)
+2017/10/26 13:16:04 Error: Test execution set up error for "ERBS, Overview (ERBS Day)" using test spec testspec1ERBS.properties
+2017/10/26 13:16:04 Error: The system cannot find the path specified
+2017/10/26 13:16:04 Test execution started for "ERBS, Overview (ERBS Day)" using test spec testspec1ERBS.properties
+2017/10/26 13:16:04 Test execution completed for "ERBS, Overview (ERBS Day)" using test spec testspec1ERBS.properties
+2017/10/26 13:23:05 ERPT Startup
+2017/10/26 13:23:05 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/10/26 13:23:05 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsERBS
+2017/10/26 13:23:05 Initializing Executors
+2017/10/26 13:23:05 Initialized 4 executors.
+2017/10/26 13:23:05 Test Excution will start at 13 23
+2017/10/26 13:23:23 ERPT Startup
+2017/10/26 13:23:23 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/10/26 13:23:23 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsERBS
+2017/10/26 13:23:23 Initializing Executors
+2017/10/26 13:23:23 Initialized 4 executors.
+2017/10/26 13:23:23 Test Excution will start at 13 24
+2017/10/26 13:23:59 Running testspec1ERBS.properties
+2017/10/26 13:24:04 report name :ERBS, Overview (ERBS Day)
+2017/10/26 13:24:23 prompt name Enter value(s) for ERBS Name
+2017/10/26 13:24:23 prompt value [ERBS953, ERBSG250_MSRBS-V2-LTE, ERBSG2681_MSRBS-V2-LTE, ERBS1269, ERBS1006, ERBS1494, ERBS1036, ERBS683, ERBSG2591_MSRBS-V2-LTE, ERBS1132]
+2017/10/26 13:24:23 prompt name First Date:
+2017/10/26 13:24:23 prompt value [2017-10-10]
+2017/10/26 13:24:23 prompt name Last Date:
+2017/10/26 13:24:23 prompt value [2017-10-26]
+2017/10/26 13:24:23 Test execution started for "ERBS, Overview (ERBS Day)" using test spec testspec1ERBS.properties
+2017/10/26 13:24:23 Test execution completed for "ERBS, Overview (ERBS Day)" using test spec testspec1ERBS.properties
+2017/10/26 13:26:50 ERPT Startup
+2017/10/26 13:26:50 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/10/26 13:26:50 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsERBS
+2017/10/26 13:26:50 Initializing Executors
+2017/10/26 13:26:50 Initialized 4 executors.
+2017/10/26 13:26:50 Test Excution will start at 13 27
+2017/10/26 13:26:59 Running testspec1ERBS.properties
+2017/10/26 13:27:03 report name :ERBS, Overview (ERBS Day)
+2017/10/26 13:27:19 ERPT Startup
+2017/10/26 13:27:19 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/10/26 13:27:19 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsERBS
+2017/10/26 13:27:19 Initializing Executors
+2017/10/26 13:27:19 Initialized 4 executors.
+2017/10/26 13:27:19 Test Excution will start at 13 28
+2017/10/26 13:27:59 Running testspec1ERBS.properties
+2017/10/26 13:28:18 report name :ERBS, Overview (ERBS Day)
+2017/10/26 13:28:37 prompt name Enter value(s) for ERBS Name
+2017/10/26 13:28:37 prompt value [ERBS864, ERBS684, ERBS502, ERBSG2182_MSRBS-V2-LTE, ERBS1028, ERBSG2319_MSRBS-V2-LTE, ERBS1021, ERBS1034, ERBS1034, ERBS594]
+2017/10/26 13:28:37 prompt name First Date:
+2017/10/26 13:28:37 prompt value [2017-10-10]
+2017/10/26 13:28:37 prompt name Last Date:
+2017/10/26 13:28:37 prompt value [2017-10-26]
+2017/10/26 13:28:37 Test execution started for "ERBS, Overview (ERBS Day)" using test spec testspec1ERBS.properties
+2017/10/26 13:29:17 testspec1ERBS.properties,ERBS, Overview (ERBS Day),29,418, 221126400
+2017/10/26 13:53:30 ERPT Startup
+2017/10/26 13:53:30 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/10/26 13:53:30 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsERBS
+2017/10/26 13:53:30 Initializing Executors
+2017/10/26 13:53:30 Initialized 4 executors.
+2017/10/26 13:53:30 Test Excution will start at 13 54
+2017/10/26 13:53:59 Running testspec1ERBS.properties
+2017/10/26 13:54:04 report name :ERBS, Overview (ERBS Raw Data)
+2017/10/26 13:54:23 prompt name Select raw data time resolution:
+2017/10/26 13:54:23 prompt value [Raw data]
+2017/10/26 13:54:23 prompt name Enter value(s) for ERBS Name
+2017/10/26 13:54:23 prompt value [ERBSG2636_MSRBS-V2-LTE, ERBS1268, ERBS1449, ERBS1018, ERBS1019, ERBS548, ERBS1001, ERBS954, ERBS323, ERBS549]
+2017/10/26 13:54:23 prompt name First Date:
+2017/10/26 13:54:23 prompt value [2017-10-10]
+2017/10/26 13:54:23 prompt name Last Date:
+2017/10/26 13:54:23 prompt value [2017-10-26]
+2017/10/26 13:54:23 report name :ERBS, Overview (ERBS Day)
+2017/10/26 13:54:23 Test execution started for "ERBS, Overview (ERBS Raw Data)" using test spec testspec1ERBS.properties
+2017/10/26 13:54:43 prompt name Enter value(s) for ERBS Name
+2017/10/26 13:54:43 prompt value [ERBS863, ERBS1358, ERBS1042, ERBS1025, ERBS1269, ERBSG2181_MSRBS-V2-LTE, ERBS1032, ERBS1001, ERBSG241_MSRBS-V2-LTE, ERBSG2455_MSRBS-V2-LTE]
+2017/10/26 13:54:43 prompt name First Date:
+2017/10/26 13:54:43 prompt value [2017-10-10]
+2017/10/26 13:54:43 prompt name Last Date:
+2017/10/26 13:54:43 prompt value [2017-10-26]
+2017/10/26 13:54:43 Test execution started for "ERBS, Overview (ERBS Day)" using test spec testspec1ERBS.properties
+2017/10/26 13:55:14 testspec1ERBS.properties,ERBS, Overview (ERBS Raw Data),28,25328, 4473349596
+2017/10/26 13:56:00 testspec1ERBS.properties,ERBS, Overview (ERBS Day),27,458, 221126400
+2017/10/26 13:59:31 ERPT Startup
+2017/10/26 13:59:31 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/10/26 13:59:31 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsERBS
+2017/10/26 13:59:31 Initializing Executors
+2017/10/26 13:59:31 Initialized 4 executors.
+2017/10/26 13:59:31 Test Excution will start at 14 01
+2017/10/26 14:00:59 Running testspec1ERBS.properties
+2017/10/26 14:01:05 report name :ERBS, Overview (EUtranCell Raw Data)
+2017/10/26 14:01:30 prompt name Select raw data time resolution:
+2017/10/26 14:01:30 prompt value [Raw data]
+2017/10/26 14:01:30 prompt name Enter values for EUtranCell Id:
+2017/10/26 14:01:30 prompt value [ERBS862-4, ERBS100-4, ERBS1189-2, ERBS10-1, ERBSG2147_MSRBS-V2-LTE-3, ERBS796-1, LTE29ERBS00044-9, ERBS1391-3, ERBS1002-3, ERBS1004-1]
+2017/10/26 14:01:30 prompt name First Date:
+2017/10/26 14:01:30 prompt value [2017-10-10]
+2017/10/26 14:01:30 prompt name Last Date:
+2017/10/26 14:01:30 prompt value [2017-10-26]
+2017/10/26 14:01:30 report name :ERBS, Overview (EUtranCell Day)
+2017/10/26 14:01:30 Test execution started for "ERBS, Overview (EUtranCell Raw Data)" using test spec testspec1ERBS.properties
+2017/10/26 14:01:52 prompt name Enter values for EUtranCell Id:
+2017/10/26 14:01:52 prompt value [LTE29ERBS00096-3, ERBS1267-4, ERBS1222-1, ERBS199-3, ERBS716-3, LTE31ERBS00039-1, ERBS851-2, ERBS671-3, ERBS1268-1, ERBSG2283_MSRBS-V2-LTE-2]
+2017/10/26 14:01:52 prompt name First Date:
+2017/10/26 14:01:52 prompt value [2017-10-10]
+2017/10/26 14:01:52 prompt name Last Date:
+2017/10/26 14:01:52 prompt value [2017-10-26]
+2017/10/26 14:01:52 Test execution started for "ERBS, Overview (EUtranCell Day)" using test spec testspec1ERBS.properties
+2017/10/26 14:02:24 testspec1ERBS.properties,ERBS, Overview (EUtranCell Raw Data),24,39787, 5552428320
+2017/10/26 14:02:30 testspec1ERBS.properties,ERBS, Overview (EUtranCell Day),27,766, 280682400
+2017/10/26 14:05:46 ERPT Startup
+2017/10/26 14:05:46 Loading configuration from C:\Users\uday\Desktop\ERPT\config.properties
+2017/10/26 14:05:46 Loading test specs C:/Users/uday/Desktop/ERPT/testspecsERBS
+2017/10/26 14:05:46 Initializing Executors
+2017/10/26 14:05:46 Initialized 4 executors.
+2017/10/26 14:05:46 Test Excution will start at 14 06
+2017/10/26 14:05:59 Running testspec1ERBS.properties
+2017/10/26 14:06:04 report name :ERBS, Overview (Network Raw Data)
+2017/10/26 14:06:18 prompt name Select raw data time resolution:
+2017/10/26 14:06:18 prompt value [Raw data]
+2017/10/26 14:06:18 prompt name First Date:
+2017/10/26 14:06:18 prompt value [2017-10-10]
+2017/10/26 14:06:18 prompt name Last Date:
+2017/10/26 14:06:18 prompt value [2017-10-26]
+2017/10/26 14:06:18 report name :ERBS, Overview (Network Day)
+2017/10/26 14:06:18 Test execution started for "ERBS, Overview (Network Raw Data)" using test spec testspec1ERBS.properties
+2017/10/26 14:06:38 prompt name First Date:
+2017/10/26 14:06:38 prompt value [2017-10-10]
+2017/10/26 14:06:38 prompt name Last Date:
+2017/10/26 14:06:38 prompt value [2017-10-26]
+2017/10/26 14:06:38 prompt name Enter values for OSS Id:
+2017/10/26 14:06:38 prompt value [eniq_oss_1]
+2017/10/26 14:06:38 Test execution started for "ERBS, Overview (Network Day)" using test spec testspec1ERBS.properties
+2017/10/26 14:07:16 error :Test execution error for "ERBS, Overview (Network Raw Data)" using test spec testspec1ERBS.properties
+2017/10/26 14:07:16 error <error>
+    <error_code>WSR 00102</error_code>
+    <message>Illegal argument ("The following database error occurred: [SAP][ODBC Driver][SAP IQ]Procedure 'ERBS_Overview_NW_Raw_EUTRANCELLRELATION' not found. For information about this error, please refer to SAP Knowledge Base Article 2054721 on the SAP Support Portal. (IES 10901)")</message>
+</error>
+
+2017/10/26 14:07:16 Test execution completed for "ERBS, Overview (Network Raw Data)" using test spec testspec1ERBS.properties
+2017/10/26 14:07:35 testspec1ERBS.properties,ERBS, Overview (Network Day),51,2401, 280613600
